@@ -1,0 +1,116 @@
+id;name;Auteurs;Années;Noms Français
+1;Atelerix albiventris;Wagner;1841;Hérisson à ventre blanc
+2;Paraechinus aethiopicus;Ehrenberg;1832;Hérisson du désert
+3;Crocidura fuscomurina;Heuglin;1865;
+4;Crocidura lusitanica;;;
+5;Crocidura nanilla;Thomas;1909;
+6;Crocidura  tarfayensis;Vesmanis & Vesmanis;1980;Crocidure du Sahara
+7;Crocidura viara;Geoffroy;1834;
+8;Canis aureus;Linnaeus;1758;Chacal doré
+9;Vulpes  zedra;Zimmermann;1780;Fennec
+10;Vulpes pallida;Cretzschmar;1826;Renard Pâle
+11;Vulpes rueppei;Schinz;1825;Renard de Rüppell
+12;Crocuta crocuta;Erxleben;1777;Hyène tachetée
+13;Hyaena Hyaena;Linnaeus;1758;Hyène rayée
+14;Acinonyx jubatus;Schreber;1775;Guépard
+15;Caracal caracal;Schreber;1776;Lynx
+16;Felis Lybica;Froster;1780;Chat sauvage
+17;Felis margarita;Loche;1858;Chat des sables
+18;Leptailurus serval;Schreber;1776;Serval
+19;Panthera pardus;Linnaeus;1758;Léopard
+20;Monachus monachus;Hermann;1779;Phoque moine
+21;Aonyx Capensis;Schinz;1821;Loutre à joues blanches
+22;Herpestes ichneumon;Linnaeus;1758;Rat des pharaons
+23;Herpestes sanguinea;Ruppell;1836;Mangouste rouge
+24;Ictonyx ibyca;Hemprich et Ehrenberg;1833;Zorille de Libye
+25;Ictonyx striatus;Perry;1810;Zorille commune
+26;Ichneumia albicauda;Cuvier;1829;Mangouste à queue blanche
+27;Melivora Capensis;Schreber;1776;Ratel ou Zorille du Cap
+28;Civettictis civetta;Schreber;1776;Civette africaine
+29;Genetta genetta;Linnaeus;1758;Genette commune
+30;Orycterepus afer;Pallas;1766;Oryctérope du Cap
+31;Procavia ruficeps;Hemprich and Ehrenberg;1832;Daman des rochers
+32;Taphozous perforatus;Geoffroy;1818;Chauve-souris
+33;Taphozous nudiventris;Geoffroy;1818;Taphien à croupe nue
+34;Asellia tridens;Geoffroy;1813;Trident du désert
+35;Hipposideros caffer;Sundevall;1846;Phyllorine de cafrérie
+36;Mops condylurus;Smith;1833;Tadaride d'Angola
+37;Nycteris hispida;Schreber;1775;Nyctère hérissé
+38;Eidolon helvum;Kerr;1792;Roussette paillée africaine
+39;Rhinopoma hardwickei;Gray;1831;Rhinopome à longue queue
+40;Rhinopoma microphyllum;Brünnich;1792;Grand rhinopome
+41;Eptesicus floweri;de Winton;1901;Sérotine de Flower
+42;Nycticeius schlieffeni;Peters;1859;Noctule de Schlieffen
+43;Pipistrellus rueppelli;Fischer;1829;Pipistrelle de Rüeppel
+44;Scotophius leucogaste;Cretzschmar;1830;
+45;Hippopotamus amphibius;Linnaeus;1758;Hippopotame amphibie
+46;Phacochoerus  africanus;Cuvier;1826;Phacochère
+47;Tragelaphus scriptus;Pallas;1766;Guib harnaché
+48;Gazella dorcas;Linnaeus;1758;Gazelle dorcade
+49;Gazella rufifrons;Gray;1846;Gazelle à front roux
+50;Ammotragus lervia;Pallas;1777;Mouflon à manchettes
+51;Bos taurus indicus;Linnaeus ;1758;Zébu
+52;Ovis aries;Linnaeus ;1758;Mouton
+53;Capra hircus;Linnaeus ;1758;Chèvre
+54;Equus caballus;Linnaeus ;1758;Cheval
+55;Equus asinus;Linnaeus ;1758;Ane
+56;Camelus dromedarius;Linnaeus ;1758;Dromadaire
+57;Papio papio;Desmarest;1820;Babouin de Guinée
+58;Erythrocebus patas;Schreber;1775;Patas
+59;Lepus capensis;Linnaeus ;1758;Lièvre du Cap
+60;Lepus saxatilis;Cuvier;1823;Lièvre des rochers
+61;Xerus erythropus;Desmarest;1817;Écureuil fouisseur
+62;Felovia vae;Lataste;1886;Goundi de Félou
+63;Hystrix cristata;Linnaeus ;1758;Porc-épic à crête
+64;Jaculus jaculus;Linnaeus ;1758;Gerboise des steppes
+65;Graphiurus hueti;Rochebrune;1883;Graphiure de Huet
+66;Rattus rattus;Linnaeus ;1758;Rat noir
+67;Gerbillus nigeriae;Thomas & Hinton;1920;Gerbille du Niger
+68;Gerbillus riggenbachi;Thomas;1903;Gerbille de Riggenbach
+69;Gerbillus nanus;Blanford;1875;Gerbille naine
+70;Gerbillus mauritaniae;Heim de Balsac;1943;Gerbille de Mauritanie
+71;Gerbillus pyramidum;Geoffroy;1825;Grande gerbille d'Égypte
+72;Gerbillus gerbillus;Olivier;1801;Petite gerbille du sable
+73;Gerbillus campestris;Loche;1867;Gerbille des champs
+74;Gerbillus tarabuli;Thomas;1902;Gerbille de Libye
+75;Pachyuromys duprasi;Lataste;1880;Gerbille à queue grasse
+76;Arvicanthis niloticus;Desmarest;1822;Rat du Nil
+77;Meriones crassus;Sundevall;1842;Mérione du désert
+78;Meriones libycus;Lichtenstein;1823;Mérione de Libye
+79;Taterillus arenarius; Robbins;1974;Gerbille d'Afrique occidentale
+80;Taterillus pygargus;Cuvier;1838;Gerbille-antilope
+81;Desmodilliscus braueri;Wettstein;1916;Gerbille de Brauer
+82;Psammomys obesus;Cretzschmar;1828;Gros rat du sable
+83;Acomys cahirinus;Desmarest;1819;Rat épineux du Caire
+84;Mastomys huberti;Wroughton;1909;Rat à mamelles multiples
+85;Mus haussa;Thomas and Hinton;1920;Souris de Hausa
+86;Mus musculus;Linnaeus ;1758;Souris commune
+87;Thryonomys swinderianus;Temminck;1827;Grand Rat des roseaux
+88;Cricetomys gambianus; Waterhouse;1840;Rat géant de Gambie
+89;Trichechus senegalensis;Link;1795;Lamantin du Sénégal
+90;Sousa teuszii;Kukenthal;1892;Dauphin à bosse de l'Atlantique
+91;Steno bredanensis;Lesson;1828;Dauphin à bec étroit
+92;Grampus griseus;Cuvier;1812;Dauphin gris
+93;Tursiops truncatus;Montagu;1821;Dauphin à nez en bouteille
+94;Stenella frontalis;Cuvier;1829;Dauphin tacheté d'Atlantique
+95;Stenella attenuata;Gray;1846;Dauphin douteux
+96;Stenella longirostris;Gray;1828;Dauphin à long bec
+97;Stenella coeruleoalba;Meyen;1833;Dauphin rayé
+98;Stenella clymene;Gray;1846;Dauphin Clymene
+99;Delphinus delphis;Linnaeus ;1758;Dauphin commun à bec court
+100;Orcinus orca;Linnaeus ;1758;Orque
+101;Peponocephala electra;Gray;1846;Dauphin d'Électre
+102;Globicephala melas;Traill;1809;Globicéphale noir
+103;Globicephala macrorhynchus;Gray;1846;Baleine pilote
+104;Phocoena phocoena;Linnaeus ;1758;Marsouin commun
+105;Mesoplodon europaeus;Gervais;1855;Baleine à bec de Gervais
+106;Mesoplodon densirostris;Blainville;1817;Baleine à bec de Blainville
+107;Mesoplodon bidens;Sowerby;1804;Baleine de Sowerby
+108;Physeter macrocephalus;Linnaeus ;1758;Grand cachalot
+109;Kogia breviceps;Blainville;1838;Cachalot pygmée
+110;Balaenoptera musculus;Linnaeus ;1758;Baleine bleue
+111;Balaenoptera  physalus;Linnaeus ;1758;Rorqual commun
+112;Balaenoptera borealis;Lesson;1828;Rorqual boréal
+113;Balaenoptera edeni;Anderson ;1879;Rorqual tropical
+114;Balaenoptera acutorostrata;Lacepède;1804;Petit rorqual
+115;Megaptera novaeangliae;Borowski;1781;Baleine à bosse

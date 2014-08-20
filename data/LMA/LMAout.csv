@@ -1,0 +1,115 @@
+1,Atelerix albiventris,Wagner,1841,Hérisson à ventre blanc,"Atelerix albiventris (Wagner, 1841)",SPECIES,Erinaceidae,Atelerix albiventris,100,EXACT
+2,Paraechinus aethiopicus,Ehrenberg,1832,Hérisson du désert,"Paraechinus aethiopicus (Ehrenberg, 1832)",SPECIES,Erinaceidae,Paraechinus aethiopicus,100,EXACT
+3,Crocidura fuscomurina,Heuglin,1865,,"Crocidura fuscomurina (Heuglin, 1865)",SPECIES,Soricidae,Crocidura fuscomurina,100,EXACT
+4,Crocidura lusitanica,,,,"Crocidura lusitania Dollman, 1915",SPECIES,Soricidae,Crocidura lusitania,95,FUZZY
+5,Crocidura nanilla,Thomas,1909,,"Crocidura nanilla Thomas, 1909",SPECIES,Soricidae,Crocidura nanilla,100,EXACT
+6,Crocidura  tarfayensis,Vesmanis & Vesmanis,1980,Crocidure du Sahara,"Crocidura tarfayensis Vesmanis & Vesmanis, 1980",SPECIES,Soricidae,Crocidura tarfayensis,100,EXACT
+7,Crocidura viara,Geoffroy,1834,,"Crocidura viaria (I. Geoffroy Saint-Hilaire, 1834)",SPECIES,Soricidae,Crocidura viaria,92,FUZZY
+8,Canis aureus,Linnaeus,1758,Chacal doré,"Canis aureus Linnaeus, 1758",SPECIES,Canidae,Canis aureus,100,EXACT
+9,Vulpes  zedra,Zimmermann,1780,Fennec,"Vulpes zerda (Zimmermann, 1780)",SPECIES,Canidae,Vulpes zerda,95,FUZZY
+10,Vulpes pallida,Cretzschmar,1826,Renard Pâle,"Vulpes pallida (Cretzschmar, 1826)",SPECIES,Canidae,Vulpes pallida,100,EXACT
+11,Vulpes rueppei,Schinz,1825,Renard de Rüppell,"Vulpes rueppelli (Schinz, 1825) [orth. error]",SPECIES,Canidae,Vulpes rueppelli,89,FUZZY
+12,Crocuta crocuta,Erxleben,1777,Hyène tachetée,"Crocuta crocuta (Erxleben, 1777)",SPECIES,Hyaenidae,Crocuta crocuta,100,EXACT
+13,Hyaena Hyaena,Linnaeus,1758,Hyène rayée,,,,,100,NONE
+14,Acinonyx jubatus,Schreber,1775,Guépard,"Acinonyx jubatus (Schreber, 1775)",SPECIES,Felidae,Acinonyx jubatus,100,EXACT
+15,Caracal caracal,Schreber,1776,Lynx,"Caracal caracal (Schreber, 1776)",SPECIES,Felidae,Caracal caracal,100,EXACT
+16,Felis Lybica,Froster,1780,Chat sauvage,"Felis Linnaeus, 1758",GENUS,Felidae,Felis,96,EXACT
+17,Felis margarita,Loche,1858,Chat des sables,"Felis margarita Loche, 1858",SPECIES,Felidae,Felis margarita,100,EXACT
+18,Leptailurus serval,Schreber,1776,Serval,"Leptailurus serval (Schreber, 1776)",SPECIES,Felidae,Leptailurus serval,100,EXACT
+19,Panthera pardus,Linnaeus,1758,Léopard,"Panthera pardus (Linnaeus, 1758)",SPECIES,Felidae,Panthera pardus,100,EXACT
+20,Monachus monachus,Hermann,1779,Phoque moine,"Monachus monachus (Hermann, 1779)",SPECIES,Phocidae,Monachus monachus,100,EXACT
+21,Aonyx Capensis,Schinz,1821,Loutre à joues blanches,"Aonyx Lesson, 1827",GENUS,Mustelidae,Aonyx,96,EXACT
+22,Herpestes ichneumon,Linnaeus,1758,Rat des pharaons,"Herpestes ichneumon (Linnaeus, 1758)",SPECIES,Herpestidae,Herpestes ichneumon,100,EXACT
+23,Herpestes sanguinea,Ruppell,1836,Mangouste rouge,"Herpestes sanguineus (Rüppell, 1835)",SPECIES,Herpestidae,Herpestes sanguineus,95,FUZZY
+24,Ictonyx ibyca,Hemprich et Ehrenberg,1833,Zorille de Libye,"Ictonyx libyca (Hemprich & Ehrenberg, 1833)",SPECIES,Mustelidae,Ictonyx libyca,94,FUZZY
+25,Ictonyx striatus,Perry,1810,Zorille commune,"Ictonyx striatus (Perry, 1810)",SPECIES,Mustelidae,Ictonyx striatus,100,EXACT
+26,Ichneumia albicauda,Cuvier,1829,Mangouste à queue blanche,"Ichneumia albicauda (G. Baron Cuvier, 1829)",SPECIES,Herpestidae,Ichneumia albicauda,100,EXACT
+27,Melivora Capensis,Schreber,1776,Ratel ou Zorille du Cap,"Melivora Gray, 1847",GENUS,Mustelidae,Melivora,93,EXACT
+28,Civettictis civetta,Schreber,1776,Civette africaine,"Civettictis civetta (Schreber, 1776)",SPECIES,Viverridae,Civettictis civetta,100,EXACT
+29,Genetta genetta,Linnaeus,1758,Genette commune,"Genetta genetta (Linnaeus, 1758)",SPECIES,Viverridae,Genetta genetta,100,EXACT
+30,Orycterepus afer,Pallas,1766,Oryctérope du Cap,"Orycteropus afer (Pallas, 1766)",SPECIES,Orycteropodidae,Orycteropus afer,89,FUZZY
+31,Procavia ruficeps,Hemprich and Ehrenberg,1832,Daman des rochers,"Procavia Storr, 1780",GENUS,Procaviidae,Procavia,91,HIGHERRANK
+32,Taphozous perforatus,Geoffroy,1818,Chauve-souris,"Taphozous perforatus E. Geoffroy, 1818",SPECIES,Emballonuridae,Taphozous perforatus,100,EXACT
+33,Taphozous nudiventris,Geoffroy,1818,Taphien à croupe nue,"Taphozous nudiventris Cretzschmar, 1830",SPECIES,Emballonuridae,Taphozous nudiventris,100,EXACT
+34,Asellia tridens,Geoffroy,1813,Trident du désert,"Asellia tridens (E. Geoffroy, 1813)",SPECIES,Rhinolophidae,Asellia tridens,100,EXACT
+35,Hipposideros caffer,Sundevall,1846,Phyllorine de cafrérie,"Hipposideros caffer (Sundevall, 1846)",SPECIES,Rhinolophidae,Hipposideros caffer,100,EXACT
+36,Mops condylurus,Smith,1833,Tadaride d'Angola,"Mops condylurus (A. Smith, 1833)",SPECIES,Molossidae,Mops condylurus,100,EXACT
+37,Nycteris hispida,Schreber,1775,Nyctère hérissé,"Nycteris hispida (Schreber, 1775)",SPECIES,Nycteridae,Nycteris hispida,100,EXACT
+38,Eidolon helvum,Kerr,1792,Roussette paillée africaine,"Eidolon helvum (Kerr, 1792)",SPECIES,Pteropodidae,Eidolon helvum,100,EXACT
+39,Rhinopoma hardwickei,Gray,1831,Rhinopome à longue queue,"Rhinopoma hardwickei Gray, 1831",SPECIES,Rhinopomatidae,Rhinopoma hardwickei,100,EXACT
+40,Rhinopoma microphyllum,Brünnich,1792,Grand rhinopome,"Rhinopoma microphyllum (Brünnich, 1782)",SPECIES,Rhinopomatidae,Rhinopoma microphyllum,100,EXACT
+41,Eptesicus floweri,de Winton,1901,Sérotine de Flower,"Eptesicus floweri (De Winton, 1901)",SPECIES,Vespertilionidae,Eptesicus floweri,100,EXACT
+42,Nycticeius schlieffeni,Peters,1859,Noctule de Schlieffen,"Nycticeius schlieffeni (Peters, 1859)",SPECIES,Vespertilionidae,Nycticeius schlieffeni,100,EXACT
+43,Pipistrellus rueppelli,Fischer,1829,Pipistrelle de Rüeppel,"Pipistrellus rueppelli (J. Fischer, 1829)",SPECIES,Vespertilionidae,Pipistrellus rueppelli,99,EXACT
+44,Scotophius leucogaste,Cretzschmar,1830,,,,,,100,NONE
+45,Hippopotamus amphibius,Linnaeus,1758,Hippopotame amphibie,"Hippopotamus amphibius Linnaeus, 1758",SPECIES,Hippopotamidae,Hippopotamus amphibius,100,EXACT
+46,Phacochoerus  africanus,Cuvier,1826,Phacochère,"Phacochoerus africanus (Gmelin, 1788)",SPECIES,Suidae,Phacochoerus africanus,100,EXACT
+47,Tragelaphus scriptus,Pallas,1766,Guib harnaché,"Tragelaphus scriptus (Pallas, 1766)",SPECIES,Bovidae,Tragelaphus scriptus,100,EXACT
+48,Gazella dorcas,Linnaeus,1758,Gazelle dorcade,"Gazella dorcas (Linnaeus, 1758)",SPECIES,Bovidae,Gazella dorcas,100,EXACT
+49,Gazella rufifrons,Gray,1846,Gazelle à front roux,"Gazella rufifrons Gray, 1846",SPECIES,Bovidae,Gazella rufifrons,100,EXACT
+50,Ammotragus lervia,Pallas,1777,Mouflon à manchettes,"Ammotragus lervia (Pallas, 1777)",SPECIES,Bovidae,Ammotragus lervia,100,EXACT
+51,Bos taurus indicus,Linnaeus ,1758,Zébu,"Bos taurus Linnaeus, 1758",SPECIES,Bovidae,Bos taurus,100,EXACT
+52,Ovis aries,Linnaeus ,1758,Mouton,"Ovis aries Linnaeus, 1758",SPECIES,Bovidae,Ovis aries,100,EXACT
+53,Capra hircus,Linnaeus ,1758,Chèvre,"Capra hircus Linnaeus, 1758",SPECIES,Bovidae,Capra hircus,100,EXACT
+54,Equus caballus,Linnaeus ,1758,Cheval,"Equus caballus Linnaeus, 1758",SPECIES,Equidae,Equus caballus,100,EXACT
+55,Equus asinus,Linnaeus ,1758,Ane,"Equus asinus Linnaeus, 1758",SPECIES,Equidae,Equus asinus,100,EXACT
+56,Camelus dromedarius,Linnaeus ,1758,Dromadaire,"Camelus dromedarius Linnaeus, 1758",SPECIES,Camelidae,Camelus dromedarius,100,EXACT
+57,Papio papio,Desmarest,1820,Babouin de Guinée,"Papio papio Desmarest, 1820",SPECIES,Cercopithecidae,Papio papio,100,EXACT
+58,Erythrocebus patas,Schreber,1775,Patas,"Erythrocebus patas (Schreber, 1775)",SPECIES,Cercopithecidae,Erythrocebus patas,100,EXACT
+59,Lepus capensis,Linnaeus ,1758,Lièvre du Cap,"Lepus capensis Linnaeus, 1758",SPECIES,Leporidae,Lepus capensis,100,EXACT
+60,Lepus saxatilis,Cuvier,1823,Lièvre des rochers,"Lepus saxatilis F. Cuvier, 1823",SPECIES,Leporidae,Lepus saxatilis,100,EXACT
+61,Xerus erythropus,Desmarest,1817,Écureuil fouisseur,"Xerus erythropus (Desmarest, 1817)",SPECIES,Sciuridae,Xerus erythropus,100,EXACT
+62,Felovia vae,Lataste,1886,Goundi de Félou,"Felovia vae Lataste, 1886",SPECIES,Ctenodactylidae,Felovia vae,100,EXACT
+63,Hystrix cristata,Linnaeus ,1758,Porc-épic à crête,"Hystrix cristata Linnaeus, 1758",SPECIES,Hystricidae,Hystrix cristata,100,EXACT
+64,Jaculus jaculus,Linnaeus ,1758,Gerboise des steppes,"Jaculus jaculus (Linnaeus, 1758)",SPECIES,Dipodidae,Jaculus jaculus,100,EXACT
+65,Graphiurus hueti,Rochebrune,1883,Graphiure de Huet,"Graphiurus hueti Rochebrune, 1883",SPECIES,Myoxidae,Graphiurus hueti,100,EXACT
+66,Rattus rattus,Linnaeus ,1758,Rat noir,"Rattus rattus (Linnaeus, 1758)",SPECIES,Muridae,Rattus rattus,100,EXACT
+67,Gerbillus nigeriae,Thomas & Hinton,1920,Gerbille du Niger,"Gerbillus nigeriae Thomas & Hinton, 1920",SPECIES,Muridae,Gerbillus nigeriae,100,EXACT
+68,Gerbillus riggenbachi,Thomas,1903,Gerbille de Riggenbach,"Gerbillus riggenbachi Thomas, 1903",SPECIES,Muridae,Gerbillus riggenbachi,100,EXACT
+69,Gerbillus nanus,Blanford,1875,Gerbille naine,"Gerbillus nanus Blanford, 1875",SPECIES,Muridae,Gerbillus nanus,100,EXACT
+70,Gerbillus mauritaniae,Heim de Balsac,1943,Gerbille de Mauritanie,"Gerbillus mauritaniae (Heim de Balsac, 1943)",SPECIES,Muridae,Gerbillus mauritaniae,100,EXACT
+71,Gerbillus pyramidum,Geoffroy,1825,Grande gerbille d'Égypte,"Gerbillus pyramidum Geoffroy, 1825",SPECIES,Muridae,Gerbillus pyramidum,100,EXACT
+72,Gerbillus gerbillus,Olivier,1801,Petite gerbille du sable,"Gerbillus gerbillus (Olivier, 1801)",SPECIES,Muridae,Gerbillus gerbillus,100,EXACT
+73,Gerbillus campestris,Loche,1867,Gerbille des champs,"Gerbillus campestris (Loche, 1867)",SPECIES,Muridae,Gerbillus campestris,100,EXACT
+74,Gerbillus tarabuli,Thomas,1902,Gerbille de Libye,"Gerbillus tarabuli Thomas, 1902",SPECIES,Muridae,Gerbillus tarabuli,100,EXACT
+75,Pachyuromys duprasi,Lataste,1880,Gerbille à queue grasse,"Pachyuromys duprasi Lataste, 1880",SPECIES,Muridae,Pachyuromys duprasi,100,EXACT
+76,Arvicanthis niloticus,Desmarest,1822,Rat du Nil,"Arvicanthis niloticus (Desmarest, 1822)",SPECIES,Muridae,Arvicanthis niloticus,100,EXACT
+77,Meriones crassus,Sundevall,1842,Mérione du désert,"Meriones crassus Sundevall, 1842",SPECIES,Muridae,Meriones crassus,100,EXACT
+78,Meriones libycus,Lichtenstein,1823,Mérione de Libye,"Meriones libycus Lichtenstein, 1823",SPECIES,Muridae,Meriones libycus,100,EXACT
+79,Taterillus arenarius, Robbins,1974,Gerbille d'Afrique occidentale,"Taterillus arenarius Robbins, 1974",SPECIES,Muridae,Taterillus arenarius,100,EXACT
+80,Taterillus pygargus,Cuvier,1838,Gerbille-antilope,"Taterillus pygargus (F. Cuvier, 1838)",SPECIES,Muridae,Taterillus pygargus,100,EXACT
+81,Desmodilliscus braueri,Wettstein,1916,Gerbille de Brauer,"Desmodilliscus braueri Wettstein, 1916",SPECIES,Muridae,Desmodilliscus braueri,100,EXACT
+82,Psammomys obesus,Cretzschmar,1828,Gros rat du sable,"Psammomys obesus Cretzschmar, 1828",SPECIES,Muridae,Psammomys obesus,100,EXACT
+83,Acomys cahirinus,Desmarest,1819,Rat épineux du Caire,"Acomys cahirinus (Desmarest, 1819)",SPECIES,Muridae,Acomys cahirinus,100,EXACT
+84,Mastomys huberti,Wroughton,1909,Rat à mamelles multiples,"Mastomys huberti Wroughton, 1909",SPECIES,Muridae,Mastomys huberti,100,EXACT
+85,Mus haussa,Thomas and Hinton,1920,Souris de Hausa,"Mus haussa (Thomas & Hinton, 1920)",SPECIES,Muridae,Mus haussa,100,EXACT
+86,Mus musculus,Linnaeus ,1758,Souris commune,"Mus musculus Linnaeus, 1758",SPECIES,Muridae,Mus musculus,100,EXACT
+87,Thryonomys swinderianus,Temminck,1827,Grand Rat des roseaux,"Thryonomys swinderianus (Temminck, 1827)",SPECIES,Thryonomyidae,Thryonomys swinderianus,100,EXACT
+88,Cricetomys gambianus, Waterhouse,1840,Rat géant de Gambie,"Cricetomys gambianus Waterhouse, 1840",SPECIES,Muridae,Cricetomys gambianus,99,EXACT
+89,Trichechus senegalensis,Link,1795,Lamantin du Sénégal,"Trichechus senegalensis Link, 1795",SPECIES,Trichechidae,Trichechus senegalensis,100,EXACT
+90,Sousa teuszii,Kukenthal,1892,Dauphin à bosse de l'Atlantique,"Sousa teuszii (Kükenthal, 1892)",SPECIES,Delphinidae,Sousa teuszii,100,EXACT
+91,Steno bredanensis,Lesson,1828,Dauphin à bec étroit,"Steno bredanensis (G. Cuvier in Lesson, 1828)",SPECIES,Delphinidae,Steno bredanensis,100,EXACT
+92,Grampus griseus,Cuvier,1812,Dauphin gris,"Grampus griseus (G. Cuvier, 1812)",SPECIES,Delphinidae,Grampus griseus,100,EXACT
+93,Tursiops truncatus,Montagu,1821,Dauphin à nez en bouteille,"Tursiops truncatus (Montagu, 1821)",SPECIES,Delphinidae,Tursiops truncatus,100,EXACT
+94,Stenella frontalis,Cuvier,1829,Dauphin tacheté d'Atlantique,"Stenella frontalis (G. Cuvier, 1829)",SPECIES,Delphinidae,Stenella frontalis,100,EXACT
+95,Stenella attenuata,Gray,1846,Dauphin douteux,"Stenella attenuata (Gray, 1846)",SPECIES,Delphinidae,Stenella attenuata,100,EXACT
+96,Stenella longirostris,Gray,1828,Dauphin à long bec,"Stenella longirostris (Gray, 1828)",SPECIES,Delphinidae,Stenella longirostris,100,EXACT
+97,Stenella coeruleoalba,Meyen,1833,Dauphin rayé,"Stenella coeruleoalba (Meyen, 1833)",SPECIES,Delphinidae,Stenella coeruleoalba,100,EXACT
+98,Stenella clymene,Gray,1846,Dauphin Clymene,"Stenella clymene (Gray, 1850)",SPECIES,Delphinidae,Stenella clymene,100,EXACT
+99,Delphinus delphis,Linnaeus ,1758,Dauphin commun à bec court,"Delphinus delphis Linnaeus, 1758",SPECIES,Delphinidae,Delphinus delphis,100,EXACT
+100,Orcinus orca,Linnaeus ,1758,Orque,"Orcinus orca (Linnaeus, 1758)",SPECIES,Delphinidae,Orcinus orca,100,EXACT
+101,Peponocephala electra,Gray,1846,Dauphin d'Électre,"Peponocephala electra (Gray, 1846)",SPECIES,Delphinidae,Peponocephala electra,100,EXACT
+102,Globicephala melas,Traill,1809,Globicéphale noir,"Globicephala melas (Traill, 1809)",SPECIES,Delphinidae,Globicephala melas,100,EXACT
+103,Globicephala macrorhynchus,Gray,1846,Baleine pilote,"Globicephala macrorhynchus Gray, 1846",SPECIES,Delphinidae,Globicephala macrorhynchus,99,EXACT
+104,Phocoena phocoena,Linnaeus ,1758,Marsouin commun,"Phocoena phocoena (Linnaeus, 1758)",SPECIES,Phocoenidae,Phocoena phocoena,100,EXACT
+105,Mesoplodon europaeus,Gervais,1855,Baleine à bec de Gervais,"Mesoplodon europaeus (Gervais, 1855)",SPECIES,Hyperoodontidae,Mesoplodon europaeus,100,EXACT
+106,Mesoplodon densirostris,Blainville,1817,Baleine à bec de Blainville,"Mesoplodon densirostris (Blainville, 1817)",SPECIES,Hyperoodontidae,Mesoplodon densirostris,100,EXACT
+107,Mesoplodon bidens,Sowerby,1804,Baleine de Sowerby,"Mesoplodon bidens (Sowerby, 1804)",SPECIES,Hyperoodontidae,Mesoplodon bidens,100,EXACT
+108,Physeter macrocephalus,Linnaeus ,1758,Grand cachalot,"Physeter macrocephalus Linnaeus, 1758",SPECIES,Physeteridae,Physeter macrocephalus,100,EXACT
+109,Kogia breviceps,Blainville,1838,Cachalot pygmée,"Kogia breviceps (Blainville, 1838)",SPECIES,Kogiidae,Kogia breviceps,100,EXACT
+110,Balaenoptera musculus,Linnaeus ,1758,Baleine bleue,"Balaenoptera musculus (Linnaeus, 1758)",SPECIES,Balaenopteridae,Balaenoptera musculus,100,EXACT
+111,Balaenoptera  physalus,Linnaeus ,1758,Rorqual commun,"Balaenoptera physalus (Linnaeus, 1758)",SPECIES,Balaenopteridae,Balaenoptera physalus,100,EXACT
+112,Balaenoptera borealis,Lesson,1828,Rorqual boréal,"Balaenoptera borealis Lesson, 1828",SPECIES,Balaenopteridae,Balaenoptera borealis,100,EXACT
+113,Balaenoptera edeni,Anderson ,1879,Rorqual tropical,"Balaenoptera edeni Anderson, 1879",SPECIES,Balaenopteridae,Balaenoptera edeni,100,EXACT
+114,Balaenoptera acutorostrata,Lacepède,1804,Petit rorqual,"Balaenoptera acutorostrata Lacépède, 1804",SPECIES,Balaenopteridae,Balaenoptera acutorostrata,100,EXACT
+115,Megaptera novaeangliae,Borowski,1781,Baleine à bosse,"Megaptera novaeangliae (Borowski, 1781)",SPECIES,Balaenopteridae,Megaptera novaeangliae,100,EXACT

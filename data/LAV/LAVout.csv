@@ -1,0 +1,89 @@
+,Podicipedidae,Tachybaptus ruficollis,,"Tachybaptus ruficollis (Pallas, 1764)",SPECIES,Podicipedidae,Tachybaptus ruficollis,100,EXACT
+,Podicipedidae,Podiceps nigricollis,,"Podiceps nigricollis C. L. Brehm, 1831",SPECIES,Podicipedidae,Podiceps nigricollis,100,EXACT
+,Pelecanidae,Pelecanus onocrotalus,,"Pelecanus onocrotalus Linnaeus, 1758",SPECIES,Pelecanidae,Pelecanus onocrotalus,100,EXACT
+,Pelecanidae,Pelecanus sp.,,,,,,100,NONE
+,Sulidae,Sula bassana,,"Sula bassana (Linnaeus, 1758)",SPECIES,Sulidae,Sula bassana,100,EXACT
+,Phalacrocoracidae,Phalacrocorax carbo ssp.lucidus,,"Phalacrocorax carbo (Linnaeus, 1758)",SPECIES,Phalacrocoracidae,Phalacrocorax carbo,100,EXACT
+,Phalacrocoracidae,Phalacrocorax africanus,,"Phalacrocorax africanus (Gmelin, 1789)",SPECIES,Phalacrocoracidae,Phalacrocorax africanus,100,EXACT
+,Phalacrocoracidae,Anhinga rufa,,"Anhinga rufa (Daudin, 1802)",SPECIES,Anhingidae,Anhinga rufa,100,EXACT
+,Ardeidae,Nycticorax nycticorax,,"Nycticorax nycticorax (Linnaeus, 1758)",SPECIES,Ardeidae,Nycticorax nycticorax,100,EXACT
+,Ardeidae,Ardeola ralloides,,"Ardeola ralloides (Scopoli, 1769)",SPECIES,Ardeidae,Ardeola ralloides,100,EXACT
+,Ardeidae,Butorides striatus,,"Butorides striatus (Linnaeus, 1758)",SPECIES,Ardeidae,Butorides striatus,99,EXACT
+,Ardeidae,Egretta ardesiaca,,"Egretta ardesiaca (Wagler, 1827)",SPECIES,Ardeidae,Egretta ardesiaca,100,EXACT
+,Ardeidae,Mesophyx intermedia,,"Mesophoyx intermedia (Wagler, 1829)",SPECIES,Ardeidae,Mesophoyx intermedia,94,FUZZY
+,Ardeidae,Ardea melanocephala,,"Ardea melanocephala Children & Vigors, 1826",SPECIES,Ardeidae,Ardea melanocephala,100,EXACT
+,Ardeidae,Egretta alba ssp. melanorhynchos,,"Egretta alba (Linnaeus, 1758)",SPECIES,Ardeidae,Egretta alba,100,EXACT
+,Ardeidae,Egretta garzetta,,"Egretta garzetta (Linnaeus, 1766)",SPECIES,Ardeidae,Egretta garzetta,100,EXACT
+,Ardeidae,Egretta gularis,,"Egretta gularis (Bosc, 1792)",SPECIES,Ardeidae,Egretta gularis,100,EXACT
+,Ardeidae,Ardea cinerea ,,"Ardea cinerea Linnaeus, 1758",SPECIES,Ardeidae,Ardea cinerea,100,EXACT
+,Ardeidae,Ardea purpurea,,"Ardea purpurea Linnaeus, 1766",SPECIES,Ardeidae,Ardea purpurea,100,EXACT
+,Ciconiidae,Mycteria ibis,,"Mycteria ibis (Linnaeus, 1766)",SPECIES,Ciconiidae,Mycteria ibis,100,EXACT
+,Ciconiidae,Ciconia nigra,,"Ciconia nigra (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia nigra,100,EXACT
+,Ciconiidae,Ciconia ciconia,,"Ciconia ciconia (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia ciconia,100,EXACT
+,Treskiornithidae,Platalea leucorodia ,,"Platalea leucorodia Linnaeus, 1758",SPECIES,Threskiornithidae,Platalea leucorodia,100,EXACT
+,Treskiornithidae,Platalea alba,,"Platalea alba Scopoli, 1786",SPECIES,Threskiornithidae,Platalea alba,100,EXACT
+,Treskiornithidae,Threskiornis aethiopicus,,"Threskiornis aethiopicus (Latham, 1790)",SPECIES,Threskiornithidae,Threskiornis aethiopicus,100,EXACT
+,Treskiornithidae,Plegadis falcinellus,,"Plegadis falcinellus (Linnaeus, 1766)",SPECIES,Threskiornithidae,Plegadis falcinellus,100,EXACT
+,Phoenicopteridae,Phenicopterus ruber,,"Phoenicopterus ruber Linnaeus, 1758",SPECIES,Phoenicopteridae,Phoenicopterus ruber,91,FUZZY
+,Phoenicopteridae,Phenicopterus minor,,"Phoenicopterus minor E. Geoffroy Saint-Hilaire, 1798",SPECIES,Phoenicopteridae,Phoenicopterus minor,91,FUZZY
+,Anatidae,Anas acuta,,"Anas acuta Linnaeus, 1758",SPECIES,Anatidae,Anas acuta,100,EXACT
+,Anatidae,Anas querquedula,,"Anas querquedula Linnaeus, 1758",SPECIES,Anatidae,Anas querquedula,100,EXACT
+,Anatidae,Anas clypeata,,"Anas clypeata Linnaeus, 1758",SPECIES,Anatidae,Anas clypeata,100,EXACT
+,Anatidae,Anas bicolor,,"Anas bicolor Vieillot, 1816",SPECIES,Anatidae,Anas bicolor,100,EXACT
+,Anatidae,Dendrocygna viduata,,"Dendrocygna viduata (Linnaeus, 1766)",SPECIES,Anatidae,Dendrocygna viduata,100,EXACT
+,Anatidae,Plectropterus gambensis,,"Plectropterus gambensis (Linnaeus, 1766)",SPECIES,Anatidae,Plectropterus gambensis,100,EXACT
+,Anatidae,Sarkidiornis melanotos,,"Sarkidiornis melanotos (Pennant, 1769)",SPECIES,Anatidae,Sarkidiornis melanotos,100,EXACT
+,Anatidae,Alopochen aegyptiacus,,"Alopochen aegyptiacus (Linnaeus, 1766)",SPECIES,Anatidae,Alopochen aegyptiacus,99,EXACT
+,Anatidae,Nettapus auritus,,"Nettapus auritus (Boddaert, 1783)",SPECIES,Anatidae,Nettapus auritus,100,EXACT
+,Burhinidae,Burhinus senegalensis,,"Burhinus senegalensis (Swainson, 1837)",SPECIES,Burhinidae,Burhinus senegalensis,100,EXACT
+,Burhinidae,Burhinus capensis,,"Burhinus capensis (Lichtenstein, 1823)",SPECIES,Burhinidae,Burhinus capensis,100,EXACT
+,Charadriidae,Vanellus spinosus,,"Vanellus spinosus (Linnaeus, 1758)",SPECIES,Charadriidae,Vanellus spinosus,100,EXACT
+,Charadriidae,Charadrius hiaticula,,"Charadrius hiaticula Linnaeus, 1758",SPECIES,Charadriidae,Charadrius hiaticula,100,EXACT
+,Charadriidae,Charadrius dubius,,"Charadrius dubius Scopoli, 1786",SPECIES,Charadriidae,Charadrius dubius,100,EXACT
+,Charadriidae,Charadrius alexandrinus,,"Charadrius alexandrinus Linnaeus, 1758",SPECIES,Charadriidae,Charadrius alexandrinus,100,EXACT
+,Charadriidae,Vanellus senegalensis,,,,,,100,NONE
+,Scolopaciddae,Numenius phaeopus,,"Numenius phaeopus (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius phaeopus,99,EXACT
+,Scolopaciddae,Numenius arquata,,"Numenius arquata (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius arquata,100,EXACT
+,Scolopaciddae,Limosa limosa,,"Limosa limosa (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa limosa,100,EXACT
+,Scolopaciddae,Limosa lapponica,,"Limosa lapponica (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa lapponica,100,EXACT
+,Scolopaciddae,Tringa nebularia,,"Tringa nebularia (Gunnerus, 1767)",SPECIES,Scolopacidae,Tringa nebularia,100,EXACT
+,Scolopaciddae,Tringa stagnatilis,,"Tringa stagnatilis (Bechstein, 1803)",SPECIES,Scolopacidae,Tringa stagnatilis,100,EXACT
+,Scolopaciddae,Tringa glareola,,"Tringa glareola Linnaeus, 1758",SPECIES,Scolopacidae,Tringa glareola,100,EXACT
+,Scolopaciddae,Tringa ochropus,,"Tringa ochropus Linnaeus, 1758",SPECIES,Scolopacidae,Tringa ochropus,100,EXACT
+,Scolopaciddae,Tringa hypoleucos,,"Tringa hypoleucos Linnaeus, 1758",SPECIES,Scolopacidae,Tringa hypoleucos,100,EXACT
+,Scolopaciddae,Tringa totanus,,"Tringa totanus (Linnaeus, 1758)",SPECIES,Scolopacidae,Tringa totanus,100,EXACT
+,Scolopaciddae,Tringa erythropus,,"Tringa erythropus (Pallas, 1764)",SPECIES,Scolopacidae,Tringa erythropus,100,EXACT
+,Scolopaciddae,Arenaria interpres,,"Arenaria interpres (Linnaeus, 1758)",SPECIES,Scolopacidae,Arenaria interpres,100,EXACT
+,Scolopaciddae,Gallinago gallinago,,"Gallinago gallinago (Linnaeus, 1758)",SPECIES,Scolopacidae,Gallinago gallinago,100,EXACT
+,Scolopaciddae,Calidris canutus,,"Calidris canutus (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris canutus,100,EXACT
+,Scolopaciddae,Calidris alpina,,"Calidris alpina (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris alpina,100,EXACT
+,Scolopaciddae,Calidris ferruginea,,"Calidris ferruginea (Pontoppidan, 1763)",SPECIES,Scolopacidae,Calidris ferruginea,100,EXACT
+,Scolopaciddae,Calidris minuta,,"Calidris minuta (Leisler, 1812)",SPECIES,Scolopacidae,Calidris minuta,100,EXACT
+,Scolopaciddae,Calidris alba,,"Calidris alba (Pallas, 1764)",SPECIES,Scolopacidae,Calidris alba,100,EXACT
+,Scolopaciddae,Calidris temminckii,,"Calidris temminckii (Leisler, 1812)",SPECIES,Scolopacidae,Calidris temminckii,100,EXACT
+,Scolopaciddae,Philomachus pygnax,,"Philomachus pugnax (Linnaeus, 1758)",SPECIES,Scolopacidae,Philomachus pugnax,95,FUZZY
+,Scolopaciddae,Himantopus himantopus,,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
+,Scolopaciddae,Haematopus ostralegus,,"Haematopus ostralegus Linnaeus, 1758",SPECIES,Haematopodidae,Haematopus ostralegus,100,EXACT
+,Recurvirostridae,Himantopus himantopus,,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
+,Recurvirostridae,Recurvirosttra avosetta,,"Recurvirostra avosetta Linnaeus, 1758",SPECIES,Recurvirostridae,Recurvirostra avosetta,92,FUZZY
+,Jacanidae,Actophilornis africana,,"Actophilornis africanus (Gmelin, 1789)",SPECIES,Jacanidae,Actophilornis africanus,95,FUZZY
+,Jacanidae,Rostratula benghalensis,,"Rostratula benghalensis (Linnaeus, 1758)",SPECIES,Rostratulidae,Rostratula benghalensis,100,EXACT
+,Gruidae,Balearica pavonina,,"Balearica pavonina (Linnaeus, 1758)",SPECIES,Gruidae,Balearica pavonina,100,EXACT
+,Rallidae,Gallinula chloropus,,"Gallinula chloropus (Linnaeus, 1758)",SPECIES,Rallidae,Gallinula chloropus,100,EXACT
+,Rallidae,Porphyrio porphyrio,,"Porphyrio porphyrio (Linnaeus, 1758)",SPECIES,Rallidae,Porphyrio porphyrio,100,EXACT
+,Laridae,Larus ridibundus,,"Larus ridibundus Linnaeus, 1766",SPECIES,Laridae,Larus ridibundus,100,EXACT
+,Laridae,Larus genei,,"Larus genei Breme, 1839",SPECIES,Laridae,Larus genei,100,EXACT
+,Laridae,Larus cirrhocephalus,,"Larus cirrocephalus Vieillot, 1818",SPECIES,Laridae,Larus cirrocephalus,93,FUZZY
+,Laridae,Larus audouinii,,"Larus audouinii Payraudeau, 1826",SPECIES,Laridae,Larus audouinii,100,EXACT
+,Laridae,Larus fuscus,,"Larus fuscus Linnaeus, 1758",SPECIES,Laridae,Larus fuscus,100,EXACT
+,Laridae,Gelochelidon nilotica,,"Gelochelidon nilotica (Gmelin, 1789)",SPECIES,Laridae,Gelochelidon nilotica,100,EXACT
+,Laridae,Sterna caspia,,"Sterna caspia Pallas, 1770",SPECIES,Laridae,Sterna caspia,100,EXACT
+,Laridae,Sterna maxima,,"Sterna maxima Boddaert, 1783",SPECIES,Laridae,Sterna maxima,100,EXACT
+,Laridae,Sterna sandvicensis,,"Sterna sandvicensis Latham, 1787",SPECIES,Laridae,Sterna sandvicensis,100,EXACT
+,Laridae,Sterna dougallii,,"Sterna dougallii Montagu, 1813",SPECIES,Laridae,Sterna dougallii,100,EXACT
+,Laridae,Sterna hirundo,,"Sterna hirundo Linnaeus, 1758",SPECIES,Laridae,Sterna hirundo,100,EXACT
+,Laridae,Sterna paradisea,,"Sterna paradisaea Pontoppidan, 1763",SPECIES,Laridae,Sterna paradisaea,95,FUZZY
+,Laridae,Chlidonias leucoptera,,"Chlidonias leucopterus (Temminck, 1815)",SPECIES,Laridae,Chlidonias leucopterus,95,FUZZY
+,Laridae,Chlidonias niger,,"Chlidonias niger (Linnaeus, 1758)",SPECIES,Laridae,Chlidonias niger,100,EXACT
+,Laridae,Chlidonias hybridus,,"Chlidonias hybridus (Pallas, 1811)",SPECIES,Laridae,Chlidonias hybridus,99,EXACT
+,Laridae,Sterna albifrons,,"Sterna albifrons Pallas, 1764",SPECIES,Laridae,Sterna albifrons,100,EXACT

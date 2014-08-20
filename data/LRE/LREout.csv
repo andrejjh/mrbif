@@ -1,0 +1,86 @@
+1,AGAMIDAE,"Agama agama Linnaeus, 1758","Agama agama Linnaeus, 1758",SPECIES,Agamidae,Agama agama,100,EXACT
+2,AGAMIDAE,"Agama boueti Chabanaud, 1917","Agama boueti Chabanaud, 1917",SPECIES,Agamidae,Agama boueti,100,EXACT
+3,AGAMIDAE,"Agama boulengeri Lataste, 1886","Agama boulengeri Lataste, 1886",SPECIES,Agamidae,Agama boulengeri,100,EXACT
+4,AGAMIDAE,"Agama castroviejoi Padial, 2005",,,,,100,NONE
+5,AGAMIDAE,"Agama impalearis Böttger, 1874","Agama impalearis Boettger, 1874",SPECIES,Agamidae,Agama impalearis,100,EXACT
+6,AGAMIDAE,"Trapelus mutabilis (Merrem, 1820)","Trapelus mutabilis Merrem, 1820",SPECIES,Agamidae,Trapelus mutabilis,100,EXACT
+7,AGAMIDAE,"Uromastyx dispar Rüppel, 1827","Uromastyx dispar Heyden, 1827",SPECIES,Agamidae,Uromastyx dispar,100,EXACT
+8,CHAMALEONIDAE,"Chamaeleo africanus Laurenti, 1768","Chamaeleo africanus Laurenti, 1768",SPECIES,Chamaeleonidae,Chamaeleo africanus,100,EXACT
+9,CHAMALEONIDAE,"Chamaeleo senegalensis Daudin, 1802","Chamaeleo senegalensis Daudin, 1802",SPECIES,Chamaeleonidae,Chamaeleo senegalensis,100,EXACT
+10,GEKKONIDAE,"Hemidactylus brooki Gray, 1825","Hemidactylus brooki Schwartz, 1991",SPECIES,Gekkonidae,Hemidactylus brooki,99,EXACT
+11,GEKKONIDAE,"Pristurus adrarensis Geniez & Arnold, 2006","Pristurus adrarensis Geniez & Arnold, 2006",SPECIES,Gekkonidae,Pristurus adrarensis,100,EXACT
+12,GEKKONIDAE,"Stenodactylus petrii Anderson, 1896","Stenodactylus petrii Anderson, 1896",SPECIES,Gekkonidae,Stenodactylus petrii,100,EXACT
+13,GEKKONIDAE,"Stenodactylus sthenodactylus (Lichtenstein, 1823)","Stenodactylus sthenodactylus Lichtenstein, 1823",SPECIES,Gekkonidae,Stenodactylus sthenodactylus,100,EXACT
+14,GEKKONIDAE,"Tarentola annularis (Geoffroy Saint-Hilaire, 1809)","Tarentola annularis Geoffroy DE ST-Hilaire, 1827",SPECIES,Gekkonidae,Tarentola annularis,100,EXACT
+15,GEKKONIDAE,"Tarentola chazaliae (Mocquard, 1895)","Tarentola chazaliae (Mocquard, 1895)",SPECIES,Gekkonidae,Tarentola chazaliae,100,EXACT
+16,GEKKONIDAE,"Tarentola ephippiata O’Shaughnessy, 1875","Tarentola ephippiata O’Shaughnessy, 1875",SPECIES,Gekkonidae,Tarentola ephippiata,100,EXACT
+17,GEKKONIDAE,"Tarentola parvicarinata Joger, 1980","Tarentola parvicarinata Joger, 1980",SPECIES,Gekkonidae,Tarentola parvicarinata,100,EXACT
+18,GEKKONIDAE,"Tropiocolotes algericus (Loveridge, 1940)","Tropiocolotes algericus Baha, 2001",SPECIES,Gekkonidae,Tropiocolotes algericus,100,EXACT
+19,GEKKONIDAE,"Tropiocolotes tripolitanus Peters, 1880","Tropiocolotes tripolitanus Peters, 1880",SPECIES,Gekkonidae,Tropiocolotes tripolitanus,100,EXACT
+20,LACERTIDAE,"Acanthodactylus aureus Günther, 1903","Acanthodactylus aureus Günther, 1903",SPECIES,Lacertidae,Acanthodactylus aureus,100,EXACT
+21,LACERTIDAE,"Acanthodactylus boskianus (Daudin, 1802)","Acanthodactylus boskianus Daudin, 1802",SPECIES,Lacertidae,Acanthodactylus boskianus,99,EXACT
+22,LACERTIDAE,"Acanthodactylus busacki Salvador, 1982","Acanthodactylus busacki Salvador, 1982",SPECIES,Lacertidae,Acanthodactylus busacki,100,EXACT
+23,LACERTIDAE,"Acanthodactylus dumerili (Milne Edwards, 1829)","Acanthodactylus dumerili Bons, 1964",SPECIES,Lacertidae,Acanthodactylus dumerili,99,EXACT
+24,LACERTIDAE,"Acanthodactylus longipes Boulenger, 1921","Acanthodactylus longipes Boulenger, 1918",SPECIES,Lacertidae,Acanthodactylus longipes,100,EXACT
+25,LACERTIDAE,"Acanthodactylus scutellatus (Audouin, 1827)","Acanthodactylus scutellatus Audouin, 1827",SPECIES,Lacertidae,Acanthodactylus scutellatus,100,EXACT
+26,LACERTIDAE,"Acanthodactylus senegalensis Chabanaud, 1918","Acanthodactylus senegalensis Chabanaud, 1918",SPECIES,Lacertidae,Acanthodactylus senegalensis,100,EXACT
+27,LACERTIDAE,"Acanthodactylus taghitensis Geniez & Foucart, 1995","Acanthodactylus taghitensis Geniez & Foucart, 1995",SPECIES,Lacertidae,Acanthodactylus taghitensis,100,EXACT
+28,LACERTIDAE,"Latastia longicauda (Reuss, 1834)","Latastia longicaudata Reuss, 1834",SPECIES,Lacertidae,Latastia longicaudata,95,FUZZY
+29,LACERTIDAE,"Mesalina guttulata (Lichtenstein, 1823)","Mesalina guttulata Lichtenstein, 1823",SPECIES,Lacertidae,Mesalina guttulata,100,EXACT
+30,LACERTIDAE,"Mesalina olivieri (Adouin, 1829)","Mesalina olivieri Audouin, 1829",SPECIES,Lacertidae,Mesalina olivieri,100,EXACT
+31,LACERTIDAE,"Mesalina pasteuri (Bons, 1960)","Mesalina pasteuri Bons, 1960",SPECIES,Lacertidae,Mesalina pasteuri,100,EXACT
+32,LACERTIDAE,"Mesalina rubropunctata (Lichtenstein, 1823)","Mesalina rubropunctata Lichtenstein, 1823",SPECIES,Lacertidae,Mesalina rubropunctata,100,EXACT
+33,SCINCIDAE,"Chalcides ocellatus (Forskal, 1775)","Chalcides ocellatus Forskal, 1775",SPECIES,Scincidae,Chalcides ocellatus,100,EXACT
+34,SCINCIDAE,"Scincopus fasciatus Peters, 1864","Scincopus fasciatus Peters, 1864",SPECIES,Scincidae,Scincopus fasciatus,100,EXACT
+35,SCINCIDAE,"Scincus albifasciatus Boulenger, 1890","Scincus Laurenti, 1768",GENUS,Scincidae,Scincus,96,HIGHERRANK
+36,SCINCIDAE,"Sphenops delislii (Lataste, 1876)","Sphenops delislei Lataste, 1876",SPECIES,Scincidae,Sphenops delislei,95,FUZZY
+37,SCINCIDAE,"Sphenops sphenopsiformis (Duméril, 1856)","Sphenops sphenopsiformis Duméril, 1856",SPECIES,Scincidae,Sphenops sphenopsiformis,100,EXACT
+38,SCINCIDAE,"Trachylepis perrotetii (Duméril & Bibron, 1839)","Trachylepis perrotetii Duméril & Bibron, 1839",SPECIES,Scincidae,Trachylepis perrotetii,100,EXACT
+39,VARANIDAE,"Varanus exanthematicus (Bosc, 1792)","Varanus exanthematicus Bosc, 1792",SPECIES,Varanidae,Varanus exanthematicus,100,EXACT
+40,VARANIDAE,"Varanus griseus (Daudin, 1803)","Varanus griseus Daudin, 1803",SPECIES,Varanidae,Varanus griseus,100,EXACT
+41,VARANIDAE,"Varanus niloticus Linnaeus, 1766","Varanus niloticus Linnaeus, 1758",SPECIES,Varanidae,Varanus niloticus,100,EXACT
+42,LEPTOTYPHLOPIDAE,"Leptotyphlops algeriensis (Jaquet, 1896)","Leptotyphlops algeriensis Jacquet, 1895",SPECIES,Leptotyphlopidae,Leptotyphlops algeriensis,100,EXACT
+43,LEPTOTYPHLOPIDAE,"Leptotyphlops boueti (Chabanaud, 1917)","Leptotyphlops boueti Chabanaud, 1917",SPECIES,Leptotyphlopidae,Leptotyphlops boueti,100,EXACT
+44,LEPTOTYPHLOPIDAE,"Leptotyphlops cairi (Dumeril & Bribon, 1844)","Leptotyphlops cairi Duméril & Bibron, 1844",SPECIES,Leptotyphlopidae,Leptotyphlops cairi,100,EXACT
+45,TYPHLOPIDAE,"Typhlops etheridgei Wallach, 2002","Typhlops etheridgei Wallach, 2002",SPECIES,Typhlopidae,Typhlops etheridgei,100,EXACT
+46,BOIDAE,"Gongylophis muelleri Boulenger, 1892","Gongylophis muelleri Boulenger, 1892",SPECIES,Boidae,Gongylophis muelleri,100,EXACT
+47,ATRACTASPIDIDAE,"Atractaspis microlepidota Günther, 1866","Atractaspis microlepidota Günther, 1866",SPECIES,Atractaspididae,Atractaspis microlepidota,100,EXACT
+48,ATRACTASPIDIDAE,"Atractaspis micropholis Gunther, 1872","Atractaspis micropholis Günther, 1872",SPECIES,Atractaspididae,Atractaspis micropholis,100,EXACT
+49,COLUBRIDAE,"Hemorrhois algirus (Jan, 1863)","Hemorrhois algirus Jan, 1863",SPECIES,Colubridae,Hemorrhois algirus,100,EXACT
+50,COLUBRIDAE,"Hemorrhois dorri (Lataste, 1888)","Haemorrhois dorri Trape, 2002",SPECIES,Colubridae,Haemorrhois dorri,94,FUZZY
+51,COLUBRIDAE,"Dasypeltis scabra (Linnaeus, 1759)","Dasypeltis scabra Linnaeus, 1758",SPECIES,Colubridae,Dasypeltis scabra,100,EXACT
+52,COLUBRIDAE,"Lamprophis fuliginosus (Boié, 1827)","Lamprophis fuliginosus Boie, 1827",SPECIES,Colubridae,Lamprophis fuliginosus,100,EXACT
+53,COLUBRIDAE,"Lytorhynchus diadema (Duméril, Bibron & Duméril, 1854)","Lytorhynchus diadema Duméril, Bibron & Duméril, 1854",SPECIES,Colubridae,Lytorhynchus diadema,100,EXACT
+54,COLUBRIDAE,"Prosymna meleagris (Reinhardt, 1843)","Prosymna meleagris Reinhardt, 1843",SPECIES,Colubridae,Prosymna meleagris,100,EXACT
+55,COLUBRIDAE,"Scutophis moilensis (Reuss, 1834)","Scutophis moilensis Brandstätter, 1995",SPECIES,Colubridae,Scutophis moilensis,100,EXACT
+56,COLUBRIDAE,"Psammophis elegans Shaw, 1802","Psammophis elegans Shaw, 1802",SPECIES,Colubridae,Psammophis elegans,100,EXACT
+57,COLUBRIDAE,"Psammophis phillipsi (Hallowell, 1844)","Psammophis phillipsi Hallowell, 1844",SPECIES,Colubridae,Psammophis phillipsi,100,EXACT
+58,COLUBRIDAE,"Psammophis schokari (Forskal, 1775)","Psammophis schokari Forskal, 1775",SPECIES,Colubridae,Psammophis schokari,100,EXACT
+59,COLUBRIDAE,"Psammophis sibilans (Linnaeus, 1758)","Psammophis sibilans Linnaeus, 1758",SPECIES,Colubridae,Psammophis sibilans,100,EXACT
+60,COLUBRIDAE,"Spalerosophis diadema (Schlegel, 1837)","Spalerosophis diadema Schlegel, 1837",SPECIES,Colubridae,Spalerosophis diadema,100,EXACT
+61,COLUBRIDAE,"Telescopus guidimakaensis (Chabanaud, 1916)","Telescopus Wagler, 1830",GENUS,Colubridae,Telescopus,96,HIGHERRANK
+62,COLUBRIDAE,"Ramphiophis oxyrynchus (Rheinhardt, 1843)",,,,,100,NONE
+63,ELAPIDAE,"Elapsoidea semiannulata Bocage, 1882","Elapsoidea semiannulata Bocage, 1882",SPECIES,Elapidae,Elapsoidea semiannulata,100,EXACT
+64,ELAPIDAE,"Naja katiensis Angel, 1922","Naja katiensis Angel, 1922",SPECIES,Elapidae,Naja katiensis,100,EXACT
+65,ELAPIDAE,"Naja nigricollis Reinhardt, 1843","Naja nigricollis Reinhardt, 1843",SPECIES,Elapidae,Naja nigricollis,100,EXACT
+66,PYTHONIDAE,"Python sebae Gmelin, 1788","Python sebae Gmelin, 1789",SPECIES,Boidae,Python sebae,100,EXACT
+67,VIPERIDAE,"Causus maculatus (Hallowell, 1842)","Causus maculatus Hallowell, 1842",SPECIES,Viperidae,Causus maculatus,100,EXACT
+68,VIPERIDAE,"Cerastes cerastes (Linnaeus, 1758)","Cerastes cerastes Linnaeus, 1758",SPECIES,Viperidae,Cerastes cerastes,100,EXACT
+69,VIPERIDAE,"Cerastes vipera (Linnaeus, 1758)","Cerastes vipera Linnaeus, 1758",SPECIES,Viperidae,Cerastes vipera,100,EXACT
+70,VIPERIDAE,"Bitis arietans (Merrem, 1820)","Bitis arietans Merrem, 1820",SPECIES,Viperidae,Bitis arietans,100,EXACT
+71,VIPERIDAE,"Echis leucogaster Roman, 1972","Echis leucogaster Roman, 1972",SPECIES,Viperidae,Echis leucogaster,100,EXACT
+72,VIPERIDAE,"Echis ocellatus Stemmler, 1970","Echis ocellatus Stemmler, 1970",SPECIES,Viperidae,Echis ocellatus,100,EXACT
+73,CROCODYLIDAE,"Crocodylus cataphractus Cuvier, 1825","Crocodylus cataphractus Cuvier, 1825",SPECIES,Crocodylidae,Crocodylus cataphractus,100,EXACT
+74,CROCODYLIDAE,"Crocodylus suchus (Geoffroy Saint-Hilaire, 1807)","Crocodylus suchus Schmitz, 2003",SPECIES,Crocodylidae,Crocodylus suchus,100,EXACT
+75,CHELONIIDAE,"Caretta caretta (Linnaeus, 1758)","Caretta caretta Linnaeus, 1758",SPECIES,Cheloniidae,Caretta caretta,100,EXACT
+76,CHELONIIDAE,"Chelonia mydas (Linnaeus, 1758)","Chelonia mydas Linnaeus, 1758",SPECIES,Cheloniidae,Chelonia mydas,100,EXACT
+77,CHELONIIDAE,"Eretmochelys imbricata (Linnaeus, 1766)","Eretmochelys imbricata (Linnaeus, 1766)",SPECIES,Cheloniidae,Eretmochelys imbricata,100,EXACT
+78,CHELONIIDAE,"Lepidochelys kempii (Garman, 1880)","Lepidochelys kempii Garman, 1880",SPECIES,Cheloniidae,Lepidochelys kempii,100,EXACT
+79,CHELONIIDAE,"Lepidochelys olivacea (Eschscholtz, 1829)","Lepidochelys olivacea Eschscholtz, 1829",SPECIES,Cheloniidae,Lepidochelys olivacea,100,EXACT
+80,DERMOCHELYIDAE,"Dermochelys coriacea (Vandelli, 1761)","Dermochelys coriacea Vandelli, 1761",SPECIES,Dermochelyidae,Dermochelys coriacea,100,EXACT
+81,EMYDIDAE,"Mauremys leprosa (Scheweiger, 1812)","Mauremys leprosa Schweigger, 1812",SPECIES,Geoemydidae,Mauremys leprosa,100,EXACT
+82,PELOMEDUSIDAE,"Pelusios adansoni (Schweigger, 1812)","Pelusios adansonii Schweigger, 1812",SPECIES,Pelomedusidae,Pelusios adansonii,95,FUZZY
+83,PELOMEDUSIDAE,"Pelomedusa subrufa (Bonnaterra, 1789)","Pelomedusa subrufa Bonnaterre, 1789",SPECIES,Pelomedusidae,Pelomedusa subrufa,100,EXACT
+84,TESTUDINIDAE,"Geochelone sulcata (Miller, 1779)","Geochelone sulcata Miller, 1779",SPECIES,Testudinidae,Geochelone sulcata,100,EXACT
+85,TRIONYCHIDAE,"Cyclanorbis senegalensis (Duméril & Bibron, 1835)","Cyclanorbis senegalensis Duméril & Bibron, 1835",SPECIES,Trionychidae,Cyclanorbis senegalensis,100,EXACT
+86,TRIONYCHIDAE,"Trionyx triunguis (Forskal, 1775)","Trionyx triunguis Forskal, 1775",SPECIES,Trionychidae,Trionyx triunguis,100,EXACT

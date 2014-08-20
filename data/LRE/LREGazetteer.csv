@@ -1,0 +1,151 @@
+id;region;locality;coordinates
+001;Adrar;Aggui;21°10’N, 13°07’W
+002;Adrar;Amogjar pass;20°32’N, 12°48’W
+003;Adrar;Atar;20°31’N, 13°03’W
+004;Adrar;Ain Savra;19°32.416’N, 12°06.829’W
+005;Adrar;Azougui;20°30’N, 13°10’W
+006;Adrar;Ben Amira;21°13.765’N, 13°40.329’W
+007;Adrar;Châr area;21°18’N, 11°00’W
+008;Adrar;Chinguetti;20°27’N, 12°22’W
+009;Adrar;Oued Choûm;21°17.050’N, 13°06.060’W
+010;Adrar;Dahr Chinguetti;20°26.547’N, 12°49.407’W
+011;Adrar;E of Ouadane;20°59’N, 11°26’W
+012;Adrar;El Beyyed;21°27’N, 11°29’W
+013;Adrar;El Gueldi;20°57.783’N, 13°11.002’W
+014;Adrar;Ez Zerga;20°22.412’N, 12°45.625’W
+015;Adrar;Guelb er Richât;21°03’N, 11° 15’W
+016;Adrar;Guelta Hamdoun;20°20’N, 13°30’W
+017;Adrar;Guelta Molomhar;20°34’N, 13°07’W
+018;Adrar;Ijâfen area (BM 1975.1398);20°27.4’N, 8°48.0’W
+019;Adrar;Iriji;20°31’N, 13°03’W aprox.
+020;Adrar;Kanoal, Oued Séguelil;20°18.216’N, 13°11.837’W
+021;Adrar;Legleitât;19°59’N, 13°17’W
+022;Adrar;Ouadâne;20°50’N, 11°36’W
+023;Adrar;Ouarâne;20°27.4’N, 8°48.0’W
+024;Adrar;Oued Choûm;21°22.6’N, 12°58.6’W
+025;Adrar;road Atar-Chinguetti via Ebnou Pass;20°33’N, 12°36’W
+026;Adrar;Tacarât area (BM 1975-1401);20°44.5’N, 10°30.0W
+027;Adrar;Tasiast, Ogla de Tamarat;21°02’N, 15°15’W
+028;Adrar;Te-n-Zak pass, road Choum-Atar;20°44’N, 13°08’W
+029;Adrar;Terjît;20°15.578’N, 13°05.854’W
+030;Adrar;Tintane;19°50’ N, 13°00’W
+031;Adrar;Zerga mountains, about 34 km WSW of Chinguetti;20°19’11.6’’N, 12°40’52.0’’W
+032;Adrar;44 km from Chinguetti on the road to Adrar, 19 km before the Nouatil Pass;20°32’45.2’’N, 12°17’22.2’’W
+033;Adrar;30 km E of Atar, road Atar-Chinguetti via Amogjar pass;20°34’N, 12°52’W
+034;Adrar;50 km S of Choum, road Choum-Atar;21°00’N, 13°09’W
+035;Adrar;65 Km S of Atar;20°15.077’N, 13°22.847’W
+036;Assaba;Aïn El Ghaire;17°11.70’N, 12°14.92’W
+037;Assaba;Bou Bleï’îne;17°07.564’N, 10°59.404’W
+038;Assaba;Bougari;16°32.034’N, 10°47.892’W
+039;Assaba;Foum El Cherat;16°30’ 35’’N, 10°49’ 3’’W
+040;Assaba;Guelta Metraucha;16°33’48’’N, 10°45’17’’W
+041;Assaba;Guelta Oumm Lebare;16°29.472’N, 10°49.822W
+042;Assaba;Kiffa;16°36.850’N, 11°24.930’W
+043;Assaba;Louths;17°14.40’N, 12°06.04’W
+044;Brakna;Achram;17°21.01’N, 12°23.98’W
+045;Brakna;Aleg;17°3’12’’N, 13°54’58’’W
+046;Brakna;Bogué;16°35’36.0’’N, 14°16’28.8’’W
+047;Dakhlet Nouâdhibou;Brakna,Aghoueyyt and Inâl, between;21°17.038’N, 15°08.371’W
+048;Dakhlet Nouâdhibou;Baie de Cansado;20°51’16.6’’N, 17°1’32.8’’W
+049;Dakhlet Nouâdhibou;Bahie du Lévrier;20°50’N, 17°24’W
+050;Dakhlet Nouâdhibou;Banc d’Arguin, National Park;19°26’N, 16°19’W
+051;Dakhlet Nouâdhibou;Birguendouz;21°36’34.3’’N, 16°27’59.7’’W
+052;Dakhlet Nouâdhibou;Boû Lanouâr;21°16.120’N, 16°31.950’W
+053;Dakhlet Nouâdhibou;Boû Lânoir-Inâl, between;21°17.038’N, 15°08.371’W
+054;Dakhlet Nouâdhibou;Cap Arguin;20°33’32.2’’N, 16°31’46.2’’W
+055;Dakhlet Nouâdhibou;Cap Blanc;20°54’N, 17°04’W
+056;Dakhlet Nouâdhibou;Cap Timirist;19°23’N, 16°32’W
+057;Dakhlet Nouâdhibou;El Aïouej;21°15’N, 16°40’W
+058;Dakhlet Nouâdhibou;Inâl;21°17.165’N, 14°59.720’W
+059;Dakhlet Nouâdhibou;Iouîk;19°53.055’N, 16°17.696’W
+060;Dakhlet Nouâdhibou;La Güera;20°49’51.2’’N, 17°5’14.9’’W
+061;Dakhlet Nouâdhibou;Mamghar;19°21.631’N, 16°30.674’W
+062;Dakhlet Nouâdhibou;Marzouba;21°01.490’N, 16°29.290’W
+063;Dakhlet Nouâdhibou;Nouâdhibou;20°55.183’N, 17°02.714’W
+064;Dakhlet Nouâdhibou;Oued ech Chibka;20°36’5.2’’N, 16°5’53.2’’W
+065;Dakhlet Nouâdhibou;Oued Khatt Atoui;20°04’12’’N, 15°58’48’’W
+066;Dakhlet Nouâdhibou;Tafarit Cape;20°07’50’’N, 16°15’41’’W
+067;Dakhlet Nouâdhibou;Tanoudert;20°20’N, 16°02’W
+068;Dakhlet Nouâdhibou;Tidra Island;19°35’95’’N, 16°25’97’’W
+069;Dakhlet Nouâdhibou;Timirist Cape;19°22’34.1’’ N, 16°32’22.3’’W
+070;Dakhlet Nouâdhibou;Tmeimichat;21°14.281’N, 14°23.570’W
+071;Dakhlet Nouâdhibou;50 km East of Boû Lanouâr, track Nouadhibou-Choum;21°17’N, 16°01’W
+072;Gorgol;Kaedi;16°09’N, 13°30’W
+073;Gorgol;M’bout;16°1’41.8’’N, 12°34’37.5’’W
+074;Guidimaka;Lake Houi;15°28’N, 12°03’W
+075;Guidimaka;Bouli;15°18’57.7’’N, 11°48’0.3’’W
+076;Guidimaka;Sélibabi;15°9’39.9’’N, 12°10’59.3’’W
+077;Hodh Ech Chargui;Adel Bagrou;8°02’N, 15°55’W
+078;Hodh Ech Chargui;Dendaré;16°17’12.1’’N, 6°41’12.8’’W
+079;Hodh Ech Chargui;Mahmûdé Lake;16°29.969 N, 7°42.911’W
+080;Hodh Ech Chargui;Oualâta;17°17’47.5’’N, 7° 1’24.3’’W
+081;Hodh Ech Chargui;Timbedgha;16°14’41.4’’N, 8°10’5.5’’W
+082;Hodh El Gharbi;Ayoûn El Atroûs;16°39’41.0’’N, 9°37’2.3’’W
+083;Hodh El Gharbi;Chlim;9°05’N, 16°42’W
+084;Hodh El Gharbi;Foulania;15°31’N, 9°49’W
+085;Hodh El Gharbi;Oumm El Khez;17°3.705’N, 10°57.278’W
+086;Hodh El Gharbi;Tâmchekket;17°14’50.6’’N, 10°40’23.0’’W
+087;Hodh El Gharbi;Timbedgha-Ayoûn El Atroûs, between;16°26.890’N, 9°14.690’W
+088;Hodh El Gharbi;Tintâne;16°23.522’N, 10°10.405’W
+089;Hodh El Gharbi;Zoueina;15°42.689’N, 9°39.906’W
+090;Inchiri;Agneïtîr;19°21’3.5’’N, 16°15’25.3’’W
+091;Inchiri;Agneïtir, Elb Aouarouâr, 30 km from Jreïf;19°11’13’’N, 16°19’25’’W
+092;Inchiri;Agneïtir, Manate;19°26’66’’N, 16°16’95’’W
+093;Inchiri;Akchâr;19°55.059’N, 15°58.775’W
+094;Inchiri;Akjoujt;19°44.636’N, 14°23.139W
+095;Inchiri;Azeffâl;20°05’N, 15°47’W
+096;Inchiri;Bennichchâb;19°27.996’N, 15°25.663’W
+097;Inchiri;Boudarga;20°30.096’N, 14°53.541W
+098;Inchiri;Châmi;20°03.508’N, 15°52.915’W
+099;Inchiri;Echekraf;19°36.450’N, 16°0.821’W
+100;Inchiri;El Mhaïjrât;19°01.64’N, 16°13.92’W
+101;Inchiri;Jraïf;19°15.98’N, 16°28.42’W
+102;Inchiri;Tenbrahim;19°37.762’N, 15°56.764W
+103;Inchiri;Tijirît;19°38.777’N, 16°0.821’W
+104;Nouakchott;Nouakchott;18°4’51.1’’N, 15°58’55.55’’W
+105;Nouakchott;Port of Nouakchott;18°06.30’N, 16°01.55’W
+106;Tagant;Adâfer Meridional;19°30’N, 10°00’W
+107;Tagant;Atar-Tidjikja, between;20°22.412’N, 12°45.625W
+108;Tagant;Guelta Fanar;18°0.951’N, 12°10.498’W
+109;Tagant;Guelta Matmata;17°53’N, 12°07’W
+110;Tagant;Lekhcheb;18°30.928’N, 10° 0.769’W
+111;Tagant;Tîchît;18°26.380’N, 9° 29.666’W
+112;Tagant;Tidjikja;18°33’N, 11° 25’W
+113;Tagant;Zig;18°34.487’N, 9°48.379’W
+114;Tiris Zemmour;Aghreïjît area;21°47’N, 12°07’W
+115;Tiris Zemmour;Bir Moghrein/Fort Tringuet;25°13’38.1’’N, 11°34’45.3’’W
+116;Tiris Zemmour;Dayet el Am;25°56’N, 8°25’W
+117;Tiris Zemmour;Hasi el Fogra;27°04’N, 8°21’W
+118;Tiris Zemmour;Fdérik (Fort Gouraud);22°41.659’N, 12°42.912’W
+119;Tiris Zemmour;Northern Tagenzé, Ouan n’Namour;21°22’51’’N, 11°24’36’’W
+120;Tiris Zemmour;Road N50 near the Sahara Border;27°14’N, 8° 25’W
+121;Tiris Zemmour;Toûâjil;22°10’17.2’’N, 12°40’18.2’’W
+122;Tiris Zemmour;Tourîne area;22°25’N, 11°52’W
+123;Tiris Zemmour;Zemmour;25°3’50.4’’N, 11°57’28.1’’W
+124;Tiris Zemmour;Zouérat;22°44.00’N, 12°28.00’W
+125;Tiris Zemmour;Zouérat-Bir Moghrein, between;24°46’N, 11°46’W
+126;Trarza;Akreïdil, 50 km NE Nouakchott;18°25’55’’N, 15°35’58’’W
+127;Trarza;Aleib Ataf;18°45’31’’N, 16°6’29’’W
+128;Trarza;Bafrechié;16°50’50.9’’N, 15°29’46.5’’W
+129;Trarza;Blaouakh;18°30.98’N, 16°04.45’W
+130;Trarza;Boutlimit;17°32’41’’N, 14°41’56’’W
+131;Trarza;Campament 28;17°41.55’N, 16°02.61’W
+132;Trarza;Campament 65;17°31.35’N, 16°04.93’W
+133;Trarza;Chott Boul;16°38’00’’N, 16°26’40’’W
+134;Trarza;Dara;16°36.323’N, 16°7.969’W
+135;Trarza;Dar es Salam;16°36.158’N, 16°05.491W
+136;Trarza;Diama-Rosso, road;16°33’N, 16°05’W
+137;Trarza;El Hazra;18°58’43’’N, 16°12’07’’W
+138;Trarza;El Msid;18°41.18’N, 16°06.09’W
+139;Trarza;Grand Plage;17°32’N, 16°04’W
+140;Trarza;Hasseï Gáboûn;18°16’22’’N, 15°51’01’’W
+141;Trarza;Keur Macène;16.23°N, 16.55°W
+142;Trarza;Lekeseyr, 7.5 km N of;16°28’54’’N, 16°27’42’’W
+143;Trarza;Muri;16°26.265’N, 16°28.001’W
+144;Trarza;N’Diago, 20 Km North of;16°26’16’’N, 16°28’00’’W
+145;Trarza;R’kiz;16°55.110’N, 15°14.432’W
+146;Trarza;Rosso;16°30.880’N, 15°48.784’W
+147;Trarza;Tamzakt;17°27’48’’N, 16°09’00’’W
+148;Trarza;Tanit;18°36’50’’N, 16°06’50’’W
+149;Trarza;Tiguent;17°16’0.4’’N, 16°1’42.3’’W
+150;Trarza;Tiouilît;18°52.311’N, 16°10.475’W

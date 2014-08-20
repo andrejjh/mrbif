@@ -1,0 +1,131 @@
+,Cynoglossus canariensis  ,"Cynoglossus canariensis Steindachner, 1882",SPECIES,Cynoglossidae,Cynoglossus canariensis,100,EXACT
+,Cynoglossus cadenati,"Cynoglossus cadenati Chabanaud, 1947",SPECIES,Cynoglossidae,Cynoglossus cadenati,100,EXACT
+,Cynoglossus monodi,"Cynoglossus monodi Chabanaud, 1949",SPECIES,Cynoglossidae,Cynoglossus monodi,100,EXACT
+,Cynoglossus senegalensis,"Cynoglossus senegalensis (Kaup, 1858)",SPECIES,Cynoglossidae,Cynoglossus senegalensis,100,EXACT
+,Dicologoglossa cuneata  ,"Dicologoglossa cuneata (Moreau, 1881)",SPECIES,Soleidae,Dicologoglossa cuneata,100,EXACT
+,Solea senegalensis ,"Solea senegalensis Kaup, 1858",SPECIES,Soleidae,Solea senegalensis,100,EXACT
+,Solea vulgaris   ,"Solea vulgaris (non Quensel, 1806)",SPECIES,Soleidae,Solea vulgaris,100,EXACT
+,Solea lascaris   ,"Solea lascaris (Risso, 1810)",SPECIES,Soleidae,Solea lascaris,100,EXACT
+,Synaptura cadenati ,"Synaptura cadenati Chabanaud, 1948",SPECIES,Soleidae,Synaptura cadenati,100,EXACT
+,Synaptura lusitanica,"Synaptura lusitanica de Brito Capello, 1868",SPECIES,Soleidae,Synaptura lusitanica,100,EXACT
+,Sparus aurigua (Pagrus aurigua): ,"Sparus auriga (Valenciennes, 1843)",SPECIES,Sparidae,Sparus auriga,95,FUZZY
+,Diplodus cervinus ,"Diplodus cervinus (Lowe, 1838)",SPECIES,Sparidae,Diplodus cervinus,100,EXACT
+,Diplodus puntazzo ,"Diplodus puntazzo (Walbaum, 1792)",SPECIES,Sparidae,Diplodus puntazzo,100,EXACT
+,Diplodus vulgaris  ,"Diplodus vulgaris (Geoffroy Saint-Hilaire, 1817)",SPECIES,Sparidae,Diplodus vulgaris,100,EXACT
+,Diplodus bellotti,"Diplodus bellottii (Steindachner, 1882)",SPECIES,Sparidae,Diplodus bellottii,95,FUZZY
+,Lithognathus mormyrus ,"Lithognathus mormyrus (Linnaeus, 1758)",SPECIES,Sparidae,Lithognathus mormyrus,100,EXACT
+,Pagellus acarne  ,"Pagellus acarne (Risso, 1827)",SPECIES,Sparidae,Pagellus acarne,100,EXACT
+,Pagellus bellotti,"Pagellus bellotti Steindachner, 1882",SPECIES,Sparidae,Pagellus bellotti,99,EXACT
+,Pagellus erythrinus,"Pagellus erythrinus (Linnaeus, 1758)",SPECIES,Sparidae,Pagellus erythrinus,100,EXACT
+,Pagellus bogaraveo ,"Pagellus bogaraveo (Brünnich, 1768)",SPECIES,Sparidae,Pagellus bogaraveo,100,EXACT
+,Pagrus aurigua (Sparus aurigua ): ,"Pagrus auriga Valenciennes, 1843",SPECIES,Sparidae,Pagrus auriga,95,FUZZY
+,Pagrus caeruleostictus (sparus ehrenbergii),"Pagrus caeruleostictus (Valenciennes, 1830)",SPECIES,Sparidae,Pagrus caeruleostictus,100,EXACT
+,Sparus auratus ,"Sparus auratus Linnaeus, 1758",SPECIES,Sparidae,Sparus auratus,99,EXACT
+,Sarpa salpa  ,"Sarpa salpa (Linnaeus, 1758)",SPECIES,Sparidae,Sarpa salpa,100,EXACT
+,Boops boops,"Boops boops (Linnaeus, 1758)",SPECIES,Sparidae,Boops boops,100,EXACT
+,Dentex canariensis,"Dentex canariensis Steindachner, 1881",SPECIES,Sparidae,Dentex canariensis,100,EXACT
+,Dentex gibbosus,"Dentex gibbosus (Rafinesque, 1810)",SPECIES,Sparidae,Dentex gibbosus,100,EXACT
+,Dentex dentex,"Dentex dentex (Linnaeus, 1758)",SPECIES,Sparidae,Dentex dentex,100,EXACT
+,Spondyliosoma cantharus ,"Spondyliosoma cantharus (Linnaeus, 1758)",SPECIES,Sparidae,Spondyliosoma cantharus,100,EXACT
+,Dentex macrophthalmus,"Dentex macrophthalmus (Bloch, 1791)",SPECIES,Sparidae,Dentex macrophthalmus,100,EXACT
+,Dentex maroccanus ,"Dentex maroccanus Valenciennes, 1830",SPECIES,Sparidae,Dentex maroccanus,100,EXACT
+,Epinephelus aeneus  ,"Epinephelus aeneus (Geoffroy Saint-Hilaire, 1817)",SPECIES,Serranidae,Epinephelus aeneus,100,EXACT
+,Epinephelus costae,"Epinephelus costae (Steindachner, 1878)",SPECIES,Serranidae,Epinephelus costae,100,EXACT
+,Epinephelus caninus,"Epinephelus caninus (Valenciennes, 1843)",SPECIES,Serranidae,Epinephelus caninus,100,EXACT
+,Epinephelus alexandrinus,"Epinephelus alexandrinus (non Valenciennes, 1828)",SPECIES,Serranidae,Epinephelus alexandrinus,100,EXACT
+,Epinephelus goreenesis ,"Epinephelus goreensis (Valenciennes, 1830)",SPECIES,Serranidae,Epinephelus goreensis,95,FUZZY
+,Epinephelus guaza  ,"Epinephelus guaza (not of Linnaeus, 1758)",SPECIES,Serranidae,Epinephelus guaza,99,EXACT
+,Mycreoperca rubra,"Mycteroperca rubra (Bloch, 1793)",SPECIES,Serranidae,Mycteroperca rubra,92,FUZZY
+,Octopus vulgaris ,"Octopus vulgaris Cuvier, 1797",SPECIES,Octopodidae,Octopus vulgaris,100,EXACT
+,Loligo vulgaris,"Loligo vulgaris Lamarck, 1798",SPECIES,Loliginidae,Loligo vulgaris,100,EXACT
+,Sepia bertheloti ,"Sepia bertheloti D'Orbigny, 1835 in Férussac and D'Orbigny, 1834-, 1848",SPECIES,Sepiidae,Sepia bertheloti,100,EXACT
+,Sepia officinalis,"Sepia officinalis Linnaeus, 1758",SPECIES,Sepiidae,Sepia officinalis,100,EXACT
+,Penaeus notialis ,"Penaeus notialis Pérez Farfante, 1967",SPECIES,Penaeidae,Penaeus notialis,100,EXACT
+,Penaeus kerathurus ,"Penaeus kerathurus (Forskål, 1775)",SPECIES,Penaeidae,Penaeus kerathurus,100,EXACT
+,Penaeus duorarum,"Penaeus duorarum Burkenroad, 1939",SPECIES,Penaeidae,Penaeus duorarum,100,EXACT
+,Parapenaeus longirostris ,"Parapenaeus longirostris (Lucas, 1846)",SPECIES,Penaeidae,Parapenaeus longirostris,100,EXACT
+,Panulirus regius ,"Panulirus regius De Brito Capello, 1864",SPECIES,Palinuridae,Panulirus regius,100,EXACT
+,Raja miraletus ,"Raja miraletus Linnaeus, 1758",SPECIES,Rajidae,Raja miraletus,100,EXACT
+,Raja clavata ,"Raja clavata Linnaeus, 1758",SPECIES,Rajidae,Raja clavata,100,EXACT
+,Mustelus mustelus ,"Mustelus mustelus (Linnaeus, 1758)",SPECIES,Triakidae,Mustelus mustelus,100,EXACT
+,Leptocharias smithii ,"Leptocharias smithii (Müller & Henle, 1839)",SPECIES,Leptochariidae,Leptocharias smithii,100,EXACT
+,Stromateus fiatola,"Stromateus fiatola Linnaeus, 1758",SPECIES,Stromateidae,Stromateus fiatola,100,EXACT
+,Uranoscopus scaber,"Uranoscopus scaber Linnaeus, 1758",SPECIES,Uranoscopidae,Uranoscopus scaber,100,EXACT
+,Uranoscopus cadenati ,"Uranoscopus cadenati Poll, 1959",SPECIES,Uranoscopidae,Uranoscopus cadenati,100,EXACT
+,Zeus faber mauritanicus ,"Zeus faber Linnaeus, 1758",SPECIES,Zeidae,Zeus faber,100,EXACT
+,Trichiurus lepturus,"Trichiurus lepturus Linnaeus, 1758",SPECIES,Trichiuridae,Trichiurus lepturus,100,EXACT
+,Lepidopus candatus,"Lepidopus caudatus (Euphrasen, 1788)",SPECIES,Trichiuridae,Lepidopus caudatus,93,FUZZY
+,Stromateus fiatola ,"Stromateus fiatola Linnaeus, 1758",SPECIES,Stromateidae,Stromateus fiatola,100,EXACT
+,Campogramma glycos ,"Campogramma glaycos (Lacepède, 1801)",SPECIES,Carangidae,Campogramma glaycos,95,FUZZY
+,Decapterus rhonchus,"Decapterus rhonchus (non Geoffroy Saint-Hilaire, 1817)",SPECIES,Carangidae,Decapterus rhonchus,100,EXACT
+,Lichia Amia  ,"Lichia Cuvier, 1816",GENUS,Carangidae,Lichia,94,EXACT
+,Trachurus trachurus ,"Trachurus trachurus (Linnaeus, 1758)",SPECIES,Carangidae,Trachurus trachurus,100,EXACT
+,Sardina Pilchardus ,"Sardina Antipa, 1904",GENUS,Clupeidae,Sardina,93,EXACT
+,Sardinella aurita,"Sardinella aurita Valenciennes, 1847",SPECIES,Clupeidae,Sardinella aurita,100,EXACT
+,Sardinella maderensis,"Sardinella maderensis (Lowe, 1838)",SPECIES,Clupeidae,Sardinella maderensis,100,EXACT
+,Ethmalosa fimbriata                                                        ,"Ethmalosa fimbriata (Bowdich, 1825)",SPECIES,Clupeidae,Ethmalosa fimbriata,100,EXACT
+,Conger conger ,"Conger conger (Linnaeus, 1758)",SPECIES,Congridae,Conger conger,100,EXACT
+,Engraulis encrasicolus ,"Engraulis encrasicolus (Linnaeus, 1758)",SPECIES,Engraulidae,Engraulis encrasicolus,100,EXACT
+,Plectorhynchus mediterraneus,"Plectorhynchus mediterraneus (Guichenot, 1850)",SPECIES,Haemulidae,Plectorhynchus mediterraneus,99,EXACT
+,Pomadasys incisus ,"Pomadasys incisus (Bowdich, 1825)",SPECIES,Haemulidae,Pomadasys incisus,100,EXACT
+,Pomadasys jubelini ,"Pomadasys jubelini (Cuvier, 1830)",SPECIES,Haemulidae,Pomadasys jubelini,100,EXACT
+,Pomadasys rogeri   ,"Pomadasys rogeri (Cuvier, 1830)",SPECIES,Haemulidae,Pomadasys rogeri,99,EXACT
+,Merluccius merluccius,"Merluccius merluccius (Linnaeus, 1758)",SPECIES,Merlucciidae,Merluccius merluccius,100,EXACT
+,Dicentrarchus punctatus ,"Dicentrarchus punctatus (Bloch, 1792)",SPECIES,Moronidae,Dicentrarchus punctatus,100,EXACT
+,Liza aurata ,"Liza aurata (Risso, 1810)",SPECIES,Mugilidae,Liza aurata,100,EXACT
+,Mugil sp ,,,,,100,NONE
+,mullus surmuletus,"Mullus surmuletus Linnaeus, 1758",SPECIES,Mullidae,Mullus surmuletus,100,EXACT
+,Mullus barbatus ,"Mullus barbatus Linnaeus, 1758",SPECIES,Mullidae,Mullus barbatus,100,EXACT
+,Pseudupeneus prayensis ,"Pseudupeneus prayensis (Cuvier, 1829)",SPECIES,Mullidae,Pseudupeneus prayensis,100,EXACT
+,sparisoma cretense,"Sparisoma cretense (Linnaeus, 1758)",SPECIES,Scaridae,Sparisoma cretense,100,EXACT
+,Pomatomus saltatrix,"Pomatomus saltatrix (Linnaeus, 1766)",SPECIES,Pomatomidae,Pomatomus saltatrix,100,EXACT
+,Psettodes belcheri,"Psettodes belcheri Bennett, 1831",SPECIES,Psettodidae,Psettodes belcheri,100,EXACT
+,Argyrosomus regius,"Argyrosomus regius (Asso, 1801)",SPECIES,Sciaenidae,Argyrosomus regius,100,EXACT
+,Pseudotolithus brachygnatus,"Pseudotolithus brachygnathus Bleeker, 1863",SPECIES,Sciaenidae,Pseudotolithus brachygnathus,91,FUZZY
+,Pseudotolithus senegalensis,"Pseudotolithus senegalensis (Valenciennes, 1833)",SPECIES,Sciaenidae,Pseudotolithus senegalensis,100,EXACT
+,Sciaena umbra,"Sciaena umbra Linnaeus, 1758",SPECIES,Sciaenidae,Sciaena umbra,100,EXACT
+,Umbrina canariensis,"Umbrina canariensis Valenciennes, 1843",SPECIES,Sciaenidae,Umbrina canariensis,100,EXACT
+,Umbrina cirrosa,"Umbrina cirrosa (Linnaeus, 1758)",SPECIES,Sciaenidae,Umbrina cirrosa,100,EXACT
+,Auxis thazard,"Auxis thazard (Lacepède, 1800)",SPECIES,Scombridae,Auxis thazard,100,EXACT
+,Lophius piscatorius,"Lophius piscatorius Linnaeus, 1758",SPECIES,Lophiidae,Lophius piscatorius,100,EXACT
+,Arnoglossus kessleri,"Arnoglossus kessleri Schmidt, 1915",SPECIES,Bothidae,Arnoglossus kessleri,100,EXACT
+,Scorpaena scrofa,"Scorpaena scrofa Linnaeus, 1758",SPECIES,Scorpaenidae,Scorpaena scrofa,100,EXACT
+,Venus verrucosa,Venus verrucosa Linnaeus,SPECIES,Veneridae,Venus verrucosa,100,EXACT
+,Venus rosalina,"Venus rosalina Philippi, 1849",SPECIES,Veneridae,Venus rosalina,100,EXACT
+,Geryon maritae,"Geryon maritae Manning & Holthuis, 1981",SPECIES,Geryonidae,Geryon maritae,100,EXACT
+,Arius heudeloti,"Arius heudeloti (non Valenciennes, 1840)",SPECIES,Ariidae,Arius heudeloti,99,EXACT
+,Ethmalosa fimbriata,"Ethmalosa fimbriata (Bowdich, 1825)",SPECIES,Clupeidae,Ethmalosa fimbriata,100,EXACT
+,Brotula barbata,"Brotula barbata (Bloch & Schneider, 1801)",SPECIES,Ophidiidae,Brotula barbata,100,EXACT
+,Orcynopsis unicolor,"Orcynopsis unicolor (Geoffroy Saint-Hilaire, 1817)",SPECIES,Scombridae,Orcynopsis unicolor,100,EXACT
+,Sarda sarda,"Sarda sarda (Bloch, 1793)",SPECIES,Scombridae,Sarda sarda,100,EXACT
+,Auxis rochei,"Auxis rochei (Risso, 1810)",SPECIES,Scombridae,Auxis rochei,100,EXACT
+,Euthynnus alletteratus,"Euthynnus alletteratus (Rafinesque, 1810)",SPECIES,Scombridae,Euthynnus alletteratus,100,EXACT
+,Katsuwonus pelamis,"Katsuwonus pelamis (Linnaeus, 1758)",SPECIES,Scombridae,Katsuwonus pelamis,100,EXACT
+,Scomber scombrus,"Scomber scombrus Linnaeus, 1758",SPECIES,Scombridae,Scomber scombrus,100,EXACT
+,Scomberomorus tritor,"Scomberomorus tritor (Cuvier, 1832)",SPECIES,Scombridae,Scomberomorus tritor,100,EXACT
+,Thunnus alalunga,"Thunnus alalunga (Bonnaterre, 1788)",SPECIES,Scombridae,Thunnus alalunga,100,EXACT
+,Thunnus albacores,"Thunnus albacores (Bonnaterre, 1788)",SPECIES,Scombridae,Thunnus albacores,99,EXACT
+,Thunnus obesus,"Thunnus obesus (Lowe, 1839)",SPECIES,Scombridae,Thunnus obesus,100,EXACT
+,Thunnus thunnus thunnus,"Thunnus thynnus (Linnaeus, 1758)",SPECIES,Scombridae,Thunnus thynnus,87,FUZZY
+,Scomberesox saurus saurus,"Scomberesox saurus (Walbaum, 1792)",SPECIES,Scomberesocidae,Scomberesox saurus,100,EXACT
+,Scomber japonicus,"Scomber japonicus Houttuyn, 1782",SPECIES,Scombridae,Scomber japonicus,100,EXACT
+,Muraena helena,"Muraena helena Linnaeus, 1758",SPECIES,Muraenidae,Muraena helena,100,EXACT
+,Merlucius merlucius,"Merluccius merluccius (Linnaeus, 1758)",SPECIES,Merlucciidae,Merluccius merluccius,86,FUZZY
+,Brama brama,"Brama brama (Bonnaterre, 1788)",SPECIES,Bramidae,Brama brama,100,EXACT
+,Helicolenus dactylopterus,"Helicolenus dactylopterus (Delaroche, 1809)",SPECIES,Sebastidae,Helicolenus dactylopterus,100,EXACT
+,Physis physis,"Physis Scopoli, 1786",GENUS,,Physis,91,HIGHERRANK
+,Pleuronectes platessa,"Pleuronectes platessa Linnaeus, 1758",SPECIES,Pleuronectidae,Pleuronectes platessa,100,EXACT
+,Merluccis senegalensis ,"Merluccius senegalensis Cadenat, 1950",SPECIES,Merlucciidae,Merluccius senegalensis,95,FUZZY
+,Syacium micrurum,"Syacium micrurum Ranzani, 1842",SPECIES,Paralichthyidae,Syacium micrurum,100,EXACT
+,Hippoglossus negro,"Hippoglossus Cuvier, 1816",GENUS,Pleuronectidae,Hippoglossus,96,HIGHERRANK
+,Rhizopriondon acutus ,"Rhizoprionodon acutus (Ruppell, 1837)",SPECIES,Carcharhinidae,Rhizoprionodon acutus,94,FUZZY
+,Citharus linguatula ,"Citharus Artedi in Röse, 1793",GENUS,Citharidae,Citharus,91,HIGHERRANK
+,Beryx decadactylus,"Beryx decadactylus Cuvier, 1829",SPECIES,Berycidae,Beryx decadactylus,100,EXACT
+,Galeorhinus galeus,"Galeorhinus galeus (Linnaeus, 1758)",SPECIES,Triakidae,Galeorhinus galeus,100,EXACT
+,Cymbium cymbium,"Cymbium cymbium (Linnaeus, 1758)",SPECIES,Volutidae,Cymbium cymbium,100,EXACT
+,Todaredes sagittatus,"Todarodes sagittatus (Lamarck, 1798)",SPECIES,Ommastrephidae,Todarodes sagittatus,92,FUZZY
+,Dentes sp,,,,,100,NONE
+,Alosa fallax,"Alosa fallax (Lacepède, 1803)",SPECIES,Clupeidae,Alosa fallax,100,EXACT
+,Coryphaena hippurus,"Coryphaena hippurus Linnaeus, 1758",SPECIES,Coryphaenidae,Coryphaena hippurus,100,EXACT
+,Coryphaena equiselis,"Coryphaena equiselis Linnaeus, 1758",SPECIES,Coryphaenidae,Coryphaena equiselis,100,EXACT
+,Trachunotus ovatus,,,,,100,NONE

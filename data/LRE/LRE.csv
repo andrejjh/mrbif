@@ -1,0 +1,87 @@
+id;family;name
+1;AGAMIDAE;Agama agama Linnaeus, 1758
+2;AGAMIDAE;Agama boueti Chabanaud, 1917
+3;AGAMIDAE;Agama boulengeri Lataste, 1886
+4;AGAMIDAE;Agama castroviejoi Padial, 2005
+5;AGAMIDAE;Agama impalearis Böttger, 1874
+6;AGAMIDAE;Trapelus mutabilis (Merrem, 1820)
+7;AGAMIDAE;Uromastyx dispar Rüppel, 1827
+8;CHAMALEONIDAE;Chamaeleo africanus Laurenti, 1768
+9;CHAMALEONIDAE;Chamaeleo senegalensis Daudin, 1802
+10;GEKKONIDAE;Hemidactylus brooki Gray, 1825
+11;GEKKONIDAE;Pristurus adrarensis Geniez & Arnold, 2006
+12;GEKKONIDAE;Stenodactylus petrii Anderson, 1896
+13;GEKKONIDAE;Stenodactylus sthenodactylus (Lichtenstein, 1823)
+14;GEKKONIDAE;Tarentola annularis (Geoffroy Saint-Hilaire, 1809)
+15;GEKKONIDAE;Tarentola chazaliae (Mocquard, 1895)
+16;GEKKONIDAE;Tarentola ephippiata O’Shaughnessy, 1875
+17;GEKKONIDAE;Tarentola parvicarinata Joger, 1980
+18;GEKKONIDAE;Tropiocolotes algericus (Loveridge, 1940)
+19;GEKKONIDAE;Tropiocolotes tripolitanus Peters, 1880
+20;LACERTIDAE;Acanthodactylus aureus Günther, 1903
+21;LACERTIDAE;Acanthodactylus boskianus (Daudin, 1802)
+22;LACERTIDAE;Acanthodactylus busacki Salvador, 1982
+23;LACERTIDAE;Acanthodactylus dumerili (Milne Edwards, 1829)
+24;LACERTIDAE;Acanthodactylus longipes Boulenger, 1921
+25;LACERTIDAE;Acanthodactylus scutellatus (Audouin, 1827)
+26;LACERTIDAE;Acanthodactylus senegalensis Chabanaud, 1918
+27;LACERTIDAE;Acanthodactylus taghitensis Geniez & Foucart, 1995
+28;LACERTIDAE;Latastia longicauda (Reuss, 1834)
+29;LACERTIDAE;Mesalina guttulata (Lichtenstein, 1823)
+30;LACERTIDAE;Mesalina olivieri (Adouin, 1829)
+31;LACERTIDAE;Mesalina pasteuri (Bons, 1960)
+32;LACERTIDAE;Mesalina rubropunctata (Lichtenstein, 1823)
+33;SCINCIDAE;Chalcides ocellatus (Forskal, 1775)
+34;SCINCIDAE;Scincopus fasciatus Peters, 1864
+35;SCINCIDAE;Scincus albifasciatus Boulenger, 1890
+36;SCINCIDAE;Sphenops delislii (Lataste, 1876)
+37;SCINCIDAE;Sphenops sphenopsiformis (Duméril, 1856)
+38;SCINCIDAE;Trachylepis perrotetii (Duméril & Bibron, 1839)
+39;VARANIDAE;Varanus exanthematicus (Bosc, 1792)
+40;VARANIDAE;Varanus griseus (Daudin, 1803)
+41;VARANIDAE;Varanus niloticus Linnaeus, 1766
+42;LEPTOTYPHLOPIDAE;Leptotyphlops algeriensis (Jaquet, 1896)
+43;LEPTOTYPHLOPIDAE;Leptotyphlops boueti (Chabanaud, 1917)
+44;LEPTOTYPHLOPIDAE;Leptotyphlops cairi (Dumeril & Bribon, 1844)
+45;TYPHLOPIDAE;Typhlops etheridgei Wallach, 2002
+46;BOIDAE;Gongylophis muelleri Boulenger, 1892
+47;ATRACTASPIDIDAE;Atractaspis microlepidota Günther, 1866
+48;ATRACTASPIDIDAE;Atractaspis micropholis Gunther, 1872
+49;COLUBRIDAE;Hemorrhois algirus (Jan, 1863)
+50;COLUBRIDAE;Hemorrhois dorri (Lataste, 1888)
+51;COLUBRIDAE;Dasypeltis scabra (Linnaeus, 1759)
+52;COLUBRIDAE;Lamprophis fuliginosus (Boié, 1827)
+53;COLUBRIDAE;Lytorhynchus diadema (Duméril, Bibron & Duméril, 1854)
+54;COLUBRIDAE;Prosymna meleagris (Reinhardt, 1843)
+55;COLUBRIDAE;Scutophis moilensis (Reuss, 1834)
+56;COLUBRIDAE;Psammophis elegans Shaw, 1802
+57;COLUBRIDAE;Psammophis phillipsi (Hallowell, 1844)
+58;COLUBRIDAE;Psammophis schokari (Forskal, 1775)
+59;COLUBRIDAE;Psammophis sibilans (Linnaeus, 1758)
+60;COLUBRIDAE;Spalerosophis diadema (Schlegel, 1837)
+61;COLUBRIDAE;Telescopus guidimakaensis (Chabanaud, 1916)
+62;COLUBRIDAE;Ramphiophis oxyrynchus (Rheinhardt, 1843)
+63;ELAPIDAE;Elapsoidea semiannulata Bocage, 1882
+64;ELAPIDAE;Naja katiensis Angel, 1922
+65;ELAPIDAE;Naja nigricollis Reinhardt, 1843
+66;PYTHONIDAE;Python sebae Gmelin, 1788
+67;VIPERIDAE;Causus maculatus (Hallowell, 1842)
+68;VIPERIDAE;Cerastes cerastes (Linnaeus, 1758)
+69;VIPERIDAE;Cerastes vipera (Linnaeus, 1758)
+70;VIPERIDAE;Bitis arietans (Merrem, 1820)
+71;VIPERIDAE;Echis leucogaster Roman, 1972
+72;VIPERIDAE;Echis ocellatus Stemmler, 1970
+73;CROCODYLIDAE;Crocodylus cataphractus Cuvier, 1825
+74;CROCODYLIDAE;Crocodylus suchus (Geoffroy Saint-Hilaire, 1807)
+75;CHELONIIDAE;Caretta caretta (Linnaeus, 1758)
+76;CHELONIIDAE;Chelonia mydas (Linnaeus, 1758)
+77;CHELONIIDAE;Eretmochelys imbricata (Linnaeus, 1766)
+78;CHELONIIDAE;Lepidochelys kempii (Garman, 1880)
+79;CHELONIIDAE;Lepidochelys olivacea (Eschscholtz, 1829)
+80;DERMOCHELYIDAE;Dermochelys coriacea (Vandelli, 1761)
+81;EMYDIDAE;Mauremys leprosa (Scheweiger, 1812)
+82;PELOMEDUSIDAE;Pelusios adansoni (Schweigger, 1812)
+83;PELOMEDUSIDAE;Pelomedusa subrufa (Bonnaterra, 1789)
+84;TESTUDINIDAE;Geochelone sulcata (Miller, 1779)
+85;TRIONYCHIDAE;Cyclanorbis senegalensis (Duméril & Bibron, 1835)
+86;TRIONYCHIDAE;Trionyx triunguis (Forskal, 1775)
