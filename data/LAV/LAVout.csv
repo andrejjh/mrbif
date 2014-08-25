@@ -1,89 +1,101 @@
-,Podicipedidae,Tachybaptus ruficollis,,"Tachybaptus ruficollis (Pallas, 1764)",SPECIES,Podicipedidae,Tachybaptus ruficollis,100,EXACT
-,Podicipedidae,Podiceps nigricollis,,"Podiceps nigricollis C. L. Brehm, 1831",SPECIES,Podicipedidae,Podiceps nigricollis,100,EXACT
-,Pelecanidae,Pelecanus onocrotalus,,"Pelecanus onocrotalus Linnaeus, 1758",SPECIES,Pelecanidae,Pelecanus onocrotalus,100,EXACT
-,Pelecanidae,Pelecanus sp.,,,,,,100,NONE
-,Sulidae,Sula bassana,,"Sula bassana (Linnaeus, 1758)",SPECIES,Sulidae,Sula bassana,100,EXACT
-,Phalacrocoracidae,Phalacrocorax carbo ssp.lucidus,,"Phalacrocorax carbo (Linnaeus, 1758)",SPECIES,Phalacrocoracidae,Phalacrocorax carbo,100,EXACT
-,Phalacrocoracidae,Phalacrocorax africanus,,"Phalacrocorax africanus (Gmelin, 1789)",SPECIES,Phalacrocoracidae,Phalacrocorax africanus,100,EXACT
-,Phalacrocoracidae,Anhinga rufa,,"Anhinga rufa (Daudin, 1802)",SPECIES,Anhingidae,Anhinga rufa,100,EXACT
-,Ardeidae,Nycticorax nycticorax,,"Nycticorax nycticorax (Linnaeus, 1758)",SPECIES,Ardeidae,Nycticorax nycticorax,100,EXACT
-,Ardeidae,Ardeola ralloides,,"Ardeola ralloides (Scopoli, 1769)",SPECIES,Ardeidae,Ardeola ralloides,100,EXACT
-,Ardeidae,Butorides striatus,,"Butorides striatus (Linnaeus, 1758)",SPECIES,Ardeidae,Butorides striatus,99,EXACT
-,Ardeidae,Egretta ardesiaca,,"Egretta ardesiaca (Wagler, 1827)",SPECIES,Ardeidae,Egretta ardesiaca,100,EXACT
-,Ardeidae,Mesophyx intermedia,,"Mesophoyx intermedia (Wagler, 1829)",SPECIES,Ardeidae,Mesophoyx intermedia,94,FUZZY
-,Ardeidae,Ardea melanocephala,,"Ardea melanocephala Children & Vigors, 1826",SPECIES,Ardeidae,Ardea melanocephala,100,EXACT
-,Ardeidae,Egretta alba ssp. melanorhynchos,,"Egretta alba (Linnaeus, 1758)",SPECIES,Ardeidae,Egretta alba,100,EXACT
-,Ardeidae,Egretta garzetta,,"Egretta garzetta (Linnaeus, 1766)",SPECIES,Ardeidae,Egretta garzetta,100,EXACT
-,Ardeidae,Egretta gularis,,"Egretta gularis (Bosc, 1792)",SPECIES,Ardeidae,Egretta gularis,100,EXACT
-,Ardeidae,Ardea cinerea ,,"Ardea cinerea Linnaeus, 1758",SPECIES,Ardeidae,Ardea cinerea,100,EXACT
-,Ardeidae,Ardea purpurea,,"Ardea purpurea Linnaeus, 1766",SPECIES,Ardeidae,Ardea purpurea,100,EXACT
-,Ciconiidae,Mycteria ibis,,"Mycteria ibis (Linnaeus, 1766)",SPECIES,Ciconiidae,Mycteria ibis,100,EXACT
-,Ciconiidae,Ciconia nigra,,"Ciconia nigra (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia nigra,100,EXACT
-,Ciconiidae,Ciconia ciconia,,"Ciconia ciconia (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia ciconia,100,EXACT
-,Treskiornithidae,Platalea leucorodia ,,"Platalea leucorodia Linnaeus, 1758",SPECIES,Threskiornithidae,Platalea leucorodia,100,EXACT
-,Treskiornithidae,Platalea alba,,"Platalea alba Scopoli, 1786",SPECIES,Threskiornithidae,Platalea alba,100,EXACT
-,Treskiornithidae,Threskiornis aethiopicus,,"Threskiornis aethiopicus (Latham, 1790)",SPECIES,Threskiornithidae,Threskiornis aethiopicus,100,EXACT
-,Treskiornithidae,Plegadis falcinellus,,"Plegadis falcinellus (Linnaeus, 1766)",SPECIES,Threskiornithidae,Plegadis falcinellus,100,EXACT
-,Phoenicopteridae,Phenicopterus ruber,,"Phoenicopterus ruber Linnaeus, 1758",SPECIES,Phoenicopteridae,Phoenicopterus ruber,91,FUZZY
-,Phoenicopteridae,Phenicopterus minor,,"Phoenicopterus minor E. Geoffroy Saint-Hilaire, 1798",SPECIES,Phoenicopteridae,Phoenicopterus minor,91,FUZZY
-,Anatidae,Anas acuta,,"Anas acuta Linnaeus, 1758",SPECIES,Anatidae,Anas acuta,100,EXACT
-,Anatidae,Anas querquedula,,"Anas querquedula Linnaeus, 1758",SPECIES,Anatidae,Anas querquedula,100,EXACT
-,Anatidae,Anas clypeata,,"Anas clypeata Linnaeus, 1758",SPECIES,Anatidae,Anas clypeata,100,EXACT
-,Anatidae,Anas bicolor,,"Anas bicolor Vieillot, 1816",SPECIES,Anatidae,Anas bicolor,100,EXACT
-,Anatidae,Dendrocygna viduata,,"Dendrocygna viduata (Linnaeus, 1766)",SPECIES,Anatidae,Dendrocygna viduata,100,EXACT
-,Anatidae,Plectropterus gambensis,,"Plectropterus gambensis (Linnaeus, 1766)",SPECIES,Anatidae,Plectropterus gambensis,100,EXACT
-,Anatidae,Sarkidiornis melanotos,,"Sarkidiornis melanotos (Pennant, 1769)",SPECIES,Anatidae,Sarkidiornis melanotos,100,EXACT
-,Anatidae,Alopochen aegyptiacus,,"Alopochen aegyptiacus (Linnaeus, 1766)",SPECIES,Anatidae,Alopochen aegyptiacus,99,EXACT
-,Anatidae,Nettapus auritus,,"Nettapus auritus (Boddaert, 1783)",SPECIES,Anatidae,Nettapus auritus,100,EXACT
-,Burhinidae,Burhinus senegalensis,,"Burhinus senegalensis (Swainson, 1837)",SPECIES,Burhinidae,Burhinus senegalensis,100,EXACT
-,Burhinidae,Burhinus capensis,,"Burhinus capensis (Lichtenstein, 1823)",SPECIES,Burhinidae,Burhinus capensis,100,EXACT
-,Charadriidae,Vanellus spinosus,,"Vanellus spinosus (Linnaeus, 1758)",SPECIES,Charadriidae,Vanellus spinosus,100,EXACT
-,Charadriidae,Charadrius hiaticula,,"Charadrius hiaticula Linnaeus, 1758",SPECIES,Charadriidae,Charadrius hiaticula,100,EXACT
-,Charadriidae,Charadrius dubius,,"Charadrius dubius Scopoli, 1786",SPECIES,Charadriidae,Charadrius dubius,100,EXACT
-,Charadriidae,Charadrius alexandrinus,,"Charadrius alexandrinus Linnaeus, 1758",SPECIES,Charadriidae,Charadrius alexandrinus,100,EXACT
-,Charadriidae,Vanellus senegalensis,,,,,,100,NONE
-,Scolopaciddae,Numenius phaeopus,,"Numenius phaeopus (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius phaeopus,99,EXACT
-,Scolopaciddae,Numenius arquata,,"Numenius arquata (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius arquata,100,EXACT
-,Scolopaciddae,Limosa limosa,,"Limosa limosa (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa limosa,100,EXACT
-,Scolopaciddae,Limosa lapponica,,"Limosa lapponica (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa lapponica,100,EXACT
-,Scolopaciddae,Tringa nebularia,,"Tringa nebularia (Gunnerus, 1767)",SPECIES,Scolopacidae,Tringa nebularia,100,EXACT
-,Scolopaciddae,Tringa stagnatilis,,"Tringa stagnatilis (Bechstein, 1803)",SPECIES,Scolopacidae,Tringa stagnatilis,100,EXACT
-,Scolopaciddae,Tringa glareola,,"Tringa glareola Linnaeus, 1758",SPECIES,Scolopacidae,Tringa glareola,100,EXACT
-,Scolopaciddae,Tringa ochropus,,"Tringa ochropus Linnaeus, 1758",SPECIES,Scolopacidae,Tringa ochropus,100,EXACT
-,Scolopaciddae,Tringa hypoleucos,,"Tringa hypoleucos Linnaeus, 1758",SPECIES,Scolopacidae,Tringa hypoleucos,100,EXACT
-,Scolopaciddae,Tringa totanus,,"Tringa totanus (Linnaeus, 1758)",SPECIES,Scolopacidae,Tringa totanus,100,EXACT
-,Scolopaciddae,Tringa erythropus,,"Tringa erythropus (Pallas, 1764)",SPECIES,Scolopacidae,Tringa erythropus,100,EXACT
-,Scolopaciddae,Arenaria interpres,,"Arenaria interpres (Linnaeus, 1758)",SPECIES,Scolopacidae,Arenaria interpres,100,EXACT
-,Scolopaciddae,Gallinago gallinago,,"Gallinago gallinago (Linnaeus, 1758)",SPECIES,Scolopacidae,Gallinago gallinago,100,EXACT
-,Scolopaciddae,Calidris canutus,,"Calidris canutus (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris canutus,100,EXACT
-,Scolopaciddae,Calidris alpina,,"Calidris alpina (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris alpina,100,EXACT
-,Scolopaciddae,Calidris ferruginea,,"Calidris ferruginea (Pontoppidan, 1763)",SPECIES,Scolopacidae,Calidris ferruginea,100,EXACT
-,Scolopaciddae,Calidris minuta,,"Calidris minuta (Leisler, 1812)",SPECIES,Scolopacidae,Calidris minuta,100,EXACT
-,Scolopaciddae,Calidris alba,,"Calidris alba (Pallas, 1764)",SPECIES,Scolopacidae,Calidris alba,100,EXACT
-,Scolopaciddae,Calidris temminckii,,"Calidris temminckii (Leisler, 1812)",SPECIES,Scolopacidae,Calidris temminckii,100,EXACT
-,Scolopaciddae,Philomachus pygnax,,"Philomachus pugnax (Linnaeus, 1758)",SPECIES,Scolopacidae,Philomachus pugnax,95,FUZZY
-,Scolopaciddae,Himantopus himantopus,,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
-,Scolopaciddae,Haematopus ostralegus,,"Haematopus ostralegus Linnaeus, 1758",SPECIES,Haematopodidae,Haematopus ostralegus,100,EXACT
-,Recurvirostridae,Himantopus himantopus,,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
-,Recurvirostridae,Recurvirosttra avosetta,,"Recurvirostra avosetta Linnaeus, 1758",SPECIES,Recurvirostridae,Recurvirostra avosetta,92,FUZZY
-,Jacanidae,Actophilornis africana,,"Actophilornis africanus (Gmelin, 1789)",SPECIES,Jacanidae,Actophilornis africanus,95,FUZZY
-,Jacanidae,Rostratula benghalensis,,"Rostratula benghalensis (Linnaeus, 1758)",SPECIES,Rostratulidae,Rostratula benghalensis,100,EXACT
-,Gruidae,Balearica pavonina,,"Balearica pavonina (Linnaeus, 1758)",SPECIES,Gruidae,Balearica pavonina,100,EXACT
-,Rallidae,Gallinula chloropus,,"Gallinula chloropus (Linnaeus, 1758)",SPECIES,Rallidae,Gallinula chloropus,100,EXACT
-,Rallidae,Porphyrio porphyrio,,"Porphyrio porphyrio (Linnaeus, 1758)",SPECIES,Rallidae,Porphyrio porphyrio,100,EXACT
-,Laridae,Larus ridibundus,,"Larus ridibundus Linnaeus, 1766",SPECIES,Laridae,Larus ridibundus,100,EXACT
-,Laridae,Larus genei,,"Larus genei Breme, 1839",SPECIES,Laridae,Larus genei,100,EXACT
-,Laridae,Larus cirrhocephalus,,"Larus cirrocephalus Vieillot, 1818",SPECIES,Laridae,Larus cirrocephalus,93,FUZZY
-,Laridae,Larus audouinii,,"Larus audouinii Payraudeau, 1826",SPECIES,Laridae,Larus audouinii,100,EXACT
-,Laridae,Larus fuscus,,"Larus fuscus Linnaeus, 1758",SPECIES,Laridae,Larus fuscus,100,EXACT
-,Laridae,Gelochelidon nilotica,,"Gelochelidon nilotica (Gmelin, 1789)",SPECIES,Laridae,Gelochelidon nilotica,100,EXACT
-,Laridae,Sterna caspia,,"Sterna caspia Pallas, 1770",SPECIES,Laridae,Sterna caspia,100,EXACT
-,Laridae,Sterna maxima,,"Sterna maxima Boddaert, 1783",SPECIES,Laridae,Sterna maxima,100,EXACT
-,Laridae,Sterna sandvicensis,,"Sterna sandvicensis Latham, 1787",SPECIES,Laridae,Sterna sandvicensis,100,EXACT
-,Laridae,Sterna dougallii,,"Sterna dougallii Montagu, 1813",SPECIES,Laridae,Sterna dougallii,100,EXACT
-,Laridae,Sterna hirundo,,"Sterna hirundo Linnaeus, 1758",SPECIES,Laridae,Sterna hirundo,100,EXACT
-,Laridae,Sterna paradisea,,"Sterna paradisaea Pontoppidan, 1763",SPECIES,Laridae,Sterna paradisaea,95,FUZZY
-,Laridae,Chlidonias leucoptera,,"Chlidonias leucopterus (Temminck, 1815)",SPECIES,Laridae,Chlidonias leucopterus,95,FUZZY
-,Laridae,Chlidonias niger,,"Chlidonias niger (Linnaeus, 1758)",SPECIES,Laridae,Chlidonias niger,100,EXACT
-,Laridae,Chlidonias hybridus,,"Chlidonias hybridus (Pallas, 1811)",SPECIES,Laridae,Chlidonias hybridus,99,EXACT
-,Laridae,Sterna albifrons,,"Sterna albifrons Pallas, 1764",SPECIES,Laridae,Sterna albifrons,100,EXACT
+1,Podicipedidae,Tachybaptus ruficollis,Grèbe castagneux,Paléarctique,Peu commune,"Tachybaptus ruficollis (Pallas, 1764)",SPECIES,Podicipedidae,Tachybaptus ruficollis,100,EXACT
+2,Podicipedidae,Podiceps nigricollis,Grèbe à cou noir,Paléarctique,Fréquente,"Podiceps nigricollis C. L. Brehm, 1831",SPECIES,Podicipedidae,Podiceps nigricollis,100,EXACT
+3,Pelecanidae,Pelecanus onocrotalus,Pélican blanc,Paléarctique / Afrotropicale,Abondante,"Pelecanus onocrotalus Linnaeus, 1758",SPECIES,Pelecanidae,Pelecanus onocrotalus,100,EXACT
+4,Pelecanidae,Pelecanus sp.,Pélican roussâtre,Afrotropical,Commune,,,,,100,NONE
+5,Sulidae,Sula bassana,Fou de bassan,Paléarctique,Commune,"Sula bassana (Linnaeus, 1758)",SPECIES,Sulidae,Sula bassana,100,EXACT
+6,Phalacrocoracidae,Phalacrocorax carbo ssp.lucidus,Grand cormoran ,Afrotropicale,Abondante,"Phalacrocorax carbo (Linnaeus, 1758)",SPECIES,Phalacrocoracidae,Phalacrocorax carbo,100,EXACT
+7,Phalacrocoracidae,Phalacrocorax africanus,Cormoran africain,Paléarctique,Abondante,"Phalacrocorax africanus (Gmelin, 1789)",SPECIES,Phalacrocoracidae,Phalacrocorax africanus,100,EXACT
+8,Phalacrocoracidae,Anhinga rufa,Anhinga roux,Espèce résidente,Rare,"Anhinga rufa (Daudin, 1802)",SPECIES,Anhingidae,Anhinga rufa,100,EXACT
+9,Ardeidae,Nycticorax nycticorax,Bihoreau gris,"Paléarctique/
+Résidente",Abondante,"Nycticorax nycticorax (Linnaeus, 1758)",SPECIES,Ardeidae,Nycticorax nycticorax,100,EXACT
+10,Ardeidae,Ardeola ralloides,Crabier chevelu,"Paléarctique/
+Résidente",Abondante,"Ardeola ralloides (Scopoli, 1769)",SPECIES,Ardeidae,Ardeola ralloides,100,EXACT
+11,Ardeidae,Butorides striatus,Héron à dos vert,Espèce résidente,Commune,"Butorides striatus (Linnaeus, 1758)",SPECIES,Ardeidae,Butorides striatus,99,EXACT
+12,Ardeidae,Egretta ardesiaca,Aigrette ardoisée,Espèce résidente,Rare,"Egretta ardesiaca (Wagler, 1827)",SPECIES,Ardeidae,Egretta ardesiaca,100,EXACT
+13,Ardeidae,Mesophyx intermedia,Aigrette intermédiaire,Paléarctique,Rare,"Mesophoyx intermedia (Wagler, 1829)",SPECIES,Ardeidae,Mesophoyx intermedia,94,FUZZY
+14,Ardeidae,Ardea melanocephala,Héron mélanocéphale,Paléarctique,Rare ou Accidentelle,"Ardea melanocephala Children & Vigors, 1826",SPECIES,Ardeidae,Ardea melanocephala,100,EXACT
+15,Ardeidae,Egretta alba ssp. melanorhynchos,Grande aigrette,Afrotropicale,Peu commune,"Egretta alba (Linnaeus, 1758)",SPECIES,Ardeidae,Egretta alba,100,EXACT
+16,Ardeidae,Egretta garzetta,Aigrette garzette,Paléarctique /Afrotropicale,Assez commune,"Egretta garzetta (Linnaeus, 1766)",SPECIES,Ardeidae,Egretta garzetta,100,EXACT
+17,Ardeidae,Egretta gularis,Aigrette dimorphe,Afrotropicale,Assez commune,"Egretta gularis (Bosc, 1792)",SPECIES,Ardeidae,Egretta gularis,100,EXACT
+18,Ardeidae,Ardea cinerea ,Héron cendré,Paléarctique,Assez commune,"Ardea cinerea Linnaeus, 1758",SPECIES,Ardeidae,Ardea cinerea,100,EXACT
+19,Ardeidae,Ardea purpurea,Héron pourpré,Paléarctique,Peu commune,"Ardea purpurea Linnaeus, 1766",SPECIES,Ardeidae,Ardea purpurea,100,EXACT
+20,Ciconiidae,Mycteria ibis,Tantale ibis,Espèce résidente,Abondante,"Mycteria ibis (Linnaeus, 1766)",SPECIES,Ciconiidae,Mycteria ibis,100,EXACT
+21,Ciconiidae,Ciconia nigra,Cigogne noire,Paléarctique,Fréquente,"Ciconia nigra (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia nigra,100,EXACT
+22,Ciconiidae,Ciconia ciconia,Cigogne blanche,Paléarctique,Rare,"Ciconia ciconia (Linnaeus, 1758)",SPECIES,Ciconiidae,Ciconia ciconia,100,EXACT
+23,Treskiornithidae,Platalea leucorodia ,Spatule blanche,"Paléarctique/
+Afrotropicale",Abondante,"Platalea leucorodia Linnaeus, 1758",SPECIES,Threskiornithidae,Platalea leucorodia,100,EXACT
+24,Treskiornithidae,Platalea alba,Spatule d’Afrique,Afrotropicale,Fréquente,"Platalea alba Scopoli, 1786",SPECIES,Threskiornithidae,Platalea alba,100,EXACT
+25,Treskiornithidae,Threskiornis aethiopicus,Ibis sacré,Espèce résidente,Fréquenté,"Threskiornis aethiopicus (Latham, 1790)",SPECIES,Threskiornithidae,Threskiornis aethiopicus,100,EXACT
+26,Treskiornithidae,Plegadis falcinellus,Ibis falcinelle,Afrotropicale,Abondante,"Plegadis falcinellus (Linnaeus, 1766)",SPECIES,Threskiornithidae,Plegadis falcinellus,100,EXACT
+27,Phoenicopteridae,Phenicopterus ruber,Flamant rose,"Paléarctique/
+Afrotropicale",Fréquente,"Phoenicopterus ruber Linnaeus, 1758",SPECIES,Phoenicopteridae,Phoenicopterus ruber,91,FUZZY
+28,Phoenicopteridae,Phenicopterus minor,Flamant nain,Afrotropicale,Abondante,"Phoenicopterus minor E. Geoffroy Saint-Hilaire, 1798",SPECIES,Phoenicopteridae,Phoenicopterus minor,91,FUZZY
+29,Anatidae,Anas acuta,Canard pilet,Paléarctique,Abondante,"Anas acuta Linnaeus, 1758",SPECIES,Anatidae,Anas acuta,100,EXACT
+30,Anatidae,Anas querquedula,Sarcelle d’été,Paléarctique,Abondante,"Anas querquedula Linnaeus, 1758",SPECIES,Anatidae,Anas querquedula,100,EXACT
+31,Anatidae,Anas clypeata,Canard souchet,Paléarctique,Abondante,"Anas clypeata Linnaeus, 1758",SPECIES,Anatidae,Anas clypeata,100,EXACT
+32,Anatidae,Anas bicolor,Dendrocygne fauve,Afrotropicale,Abondante,"Anas bicolor Vieillot, 1816",SPECIES,Anatidae,Anas bicolor,100,EXACT
+33,Anatidae,Dendrocygna viduata,Dendrocygne veuf,Afrotropicale,Abondante,"Dendrocygna viduata (Linnaeus, 1766)",SPECIES,Anatidae,Dendrocygna viduata,100,EXACT
+34,Anatidae,Plectropterus gambensis,Oie de Gambie,Espèce résidente,Abondante,"Plectropterus gambensis (Linnaeus, 1766)",SPECIES,Anatidae,Plectropterus gambensis,100,EXACT
+35,Anatidae,Sarkidiornis melanotos,Canard casqué,Afrotropicale,Rare,"Sarkidiornis melanotos (Pennant, 1769)",SPECIES,Anatidae,Sarkidiornis melanotos,100,EXACT
+36,Anatidae,Alopochen aegyptiacus,Oie d’Egypte,Espèce résidente,Abondante,"Alopochen aegyptiacus (Linnaeus, 1766)",SPECIES,Anatidae,Alopochen aegyptiacus,99,EXACT
+37,Anatidae,Nettapus auritus,Sarcelle à oreillons,Afrotropicale,Rare,"Nettapus auritus (Boddaert, 1783)",SPECIES,Anatidae,Nettapus auritus,100,EXACT
+38,Burhinidae,Burhinus senegalensis,Oedicnème du Sénégal,Espèce résidente,Abondante,"Burhinus senegalensis (Swainson, 1837)",SPECIES,Burhinidae,Burhinus senegalensis,100,EXACT
+39,Burhinidae,Burhinus capensis,Oedicnéme tachard,Espèce résidente,Rare,"Burhinus capensis (Lichtenstein, 1823)",SPECIES,Burhinidae,Burhinus capensis,100,EXACT
+40,Charadriidae,Vanellus spinosus,Vanneau éperonné,Espèce résidente,Abondante,"Vanellus spinosus (Linnaeus, 1758)",SPECIES,Charadriidae,Vanellus spinosus,100,EXACT
+41,Charadriidae,Charadrius hiaticula,Grand gravelot,Palaréactique,Fréquente,"Charadrius hiaticula Linnaeus, 1758",SPECIES,Charadriidae,Charadrius hiaticula,100,EXACT
+42,Charadriidae,Charadrius dubius,Petit gravelot,Paléarctique,Rare,"Charadrius dubius Scopoli, 1786",SPECIES,Charadriidae,Charadrius dubius,100,EXACT
+43,Charadriidae,Charadrius alexandrinus,Gravelot à collier interrompu,"Paléarctique/
+Afrotropical",Abondante,"Charadrius alexandrinus Linnaeus, 1758",SPECIES,Charadriidae,Charadrius alexandrinus,100,EXACT
+44,Charadriidae,Vanellus senegalensis,Vanneau du Sénégal,Espèce résidente,Abondante,,,,,100,NONE
+45,Scolopaciddae,Numenius phaeopus,Courlis corlieu,Paléarctique,Abondante,"Numenius phaeopus (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius phaeopus,99,EXACT
+46,Scolopaciddae,Numenius arquata,Courlis cendré,Paléarctique,Abondante,"Numenius arquata (Linnaeus, 1758)",SPECIES,Scolopacidae,Numenius arquata,100,EXACT
+47,Scolopaciddae,Limosa limosa,Barge à queue noire,Paléarctique,Abondante,"Limosa limosa (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa limosa,100,EXACT
+48,Scolopaciddae,Limosa lapponica,Barge rousse,Paléarctique,Abondante,"Limosa lapponica (Linnaeus, 1758)",SPECIES,Scolopacidae,Limosa lapponica,100,EXACT
+49,Scolopaciddae,Tringa nebularia,Chevalier aboyeur,Paléarctique,Abondante,"Tringa nebularia (Gunnerus, 1767)",SPECIES,Scolopacidae,Tringa nebularia,100,EXACT
+50,Scolopaciddae,Tringa stagnatilis,Chevalier stagnatile,Paléarctique,Rare,"Tringa stagnatilis (Bechstein, 1803)",SPECIES,Scolopacidae,Tringa stagnatilis,100,EXACT
+51,Scolopaciddae,Tringa glareola,Chevalier sylvain,Paléarctique,Rare,"Tringa glareola Linnaeus, 1758",SPECIES,Scolopacidae,Tringa glareola,100,EXACT
+52,Scolopaciddae,Tringa ochropus,Chevalier cul-blanc,Paléarctique,Rare,"Tringa ochropus Linnaeus, 1758",SPECIES,Scolopacidae,Tringa ochropus,100,EXACT
+53,Scolopaciddae,Tringa hypoleucos,Chevalier guignette,Paléarctique,Fréquent e,"Tringa hypoleucos Linnaeus, 1758",SPECIES,Scolopacidae,Tringa hypoleucos,100,EXACT
+54,Scolopaciddae,Tringa totanus,Chevalier gambette,Paléarctique,Abondante,"Tringa totanus (Linnaeus, 1758)",SPECIES,Scolopacidae,Tringa totanus,100,EXACT
+55,Scolopaciddae,Tringa erythropus,Chevalier arlequin,Paléarctique,Abondante,"Tringa erythropus (Pallas, 1764)",SPECIES,Scolopacidae,Tringa erythropus,100,EXACT
+56,Scolopaciddae,Arenaria interpres,Tournepierre à collier,Paléarctique,Rare,"Arenaria interpres (Linnaeus, 1758)",SPECIES,Scolopacidae,Arenaria interpres,100,EXACT
+57,Scolopaciddae,Gallinago gallinago,Bécassine des marais,Paléarctique,Rare,"Gallinago gallinago (Linnaeus, 1758)",SPECIES,Scolopacidae,Gallinago gallinago,100,EXACT
+58,Scolopaciddae,Calidris canutus,Bécasseau maubèche,Paléarctique,Peu fréquente,"Calidris canutus (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris canutus,100,EXACT
+59,Scolopaciddae,Calidris alpina,Bécasseau variable,Paléarctique,Commune,"Calidris alpina (Linnaeus, 1758)",SPECIES,Scolopacidae,Calidris alpina,100,EXACT
+60,Scolopaciddae,Calidris ferruginea,Bécasseau cocorli,Paléarctique,Commune,"Calidris ferruginea (Pontoppidan, 1763)",SPECIES,Scolopacidae,Calidris ferruginea,100,EXACT
+61,Scolopaciddae,Calidris minuta,Bécasseau minute,Paléarctique,Abondante,"Calidris minuta (Leisler, 1812)",SPECIES,Scolopacidae,Calidris minuta,100,EXACT
+62,Scolopaciddae,Calidris alba,Bécasseau sanderling,Paléarctique,Rare,"Calidris alba (Pallas, 1764)",SPECIES,Scolopacidae,Calidris alba,100,EXACT
+63,Scolopaciddae,Calidris temminckii,Bécasseau de Temmminck,Paléarctique,Rare,"Calidris temminckii (Leisler, 1812)",SPECIES,Scolopacidae,Calidris temminckii,100,EXACT
+64,Scolopaciddae,Philomachus pygnax,Chevalier combattant,Paléarctique,Abondante,"Philomachus pugnax (Linnaeus, 1758)",SPECIES,Scolopacidae,Philomachus pugnax,95,FUZZY
+65,Scolopaciddae,Himantopus himantopus,Echasse blanche,Paléarctique,Peu commun,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
+66,Scolopaciddae,Haematopus ostralegus,Huîtrier pie,Paléarctique,Peu commune,"Haematopus ostralegus Linnaeus, 1758",SPECIES,Haematopodidae,Haematopus ostralegus,100,EXACT
+67,Recurvirostridae,Himantopus himantopus,Echasse blanche,Paléarctique,Abondante,"Himantopus himantopus (Linnaeus, 1758)",SPECIES,Recurvirostridae,Himantopus himantopus,100,EXACT
+68,Recurvirostridae,Recurvirosttra avosetta,Avocette élégante,Espèce résidente,Abondante,"Recurvirostra avosetta Linnaeus, 1758",SPECIES,Recurvirostridae,Recurvirostra avosetta,92,FUZZY
+69,Jacanidae,Actophilornis africana,Jacana à poitrine dorée,"Afrotropicale/
+Espèce résidente",Commune,"Actophilornis africanus (Gmelin, 1789)",SPECIES,Jacanidae,Actophilornis africanus,95,FUZZY
+70,Jacanidae,Rostratula benghalensis,Rhynchée peinte,Espèce résidente,Fréquente,"Rostratula benghalensis (Linnaeus, 1758)",SPECIES,Rostratulidae,Rostratula benghalensis,100,EXACT
+71,Gruidae,Balearica pavonina,Grue couronnée,Espèce résidente,Abondante,"Balearica pavonina (Linnaeus, 1758)",SPECIES,Gruidae,Balearica pavonina,100,EXACT
+72,Rallidae,Gallinula chloropus,Poule d’eau,"Paléarctique/
+Espèce résidente",Abondante,"Gallinula chloropus (Linnaeus, 1758)",SPECIES,Rallidae,Gallinula chloropus,100,EXACT
+73,Rallidae,Porphyrio porphyrio,Poule sultane,Espèce résidente,Abondante,"Porphyrio porphyrio (Linnaeus, 1758)",SPECIES,Rallidae,Porphyrio porphyrio,100,EXACT
+74,Laridae,Larus ridibundus,Mouette rieuse,Paléarctique,Fréquente,"Larus ridibundus Linnaeus, 1766",SPECIES,Laridae,Larus ridibundus,100,EXACT
+75,Laridae,Larus genei,Goéland railleur,"Paléarctique/
+Afrotropical",Abondante,"Larus genei Breme, 1839",SPECIES,Laridae,Larus genei,100,EXACT
+76,Laridae,Larus cirrhocephalus,Mouette à tête grise," Paléarctique/
+Afrotropicale",Abondante,"Larus cirrocephalus Vieillot, 1818",SPECIES,Laridae,Larus cirrocephalus,93,FUZZY
+77,Laridae,Larus audouinii,Goéland d’Audouin,Paléarctique,Rare,"Larus audouinii Payraudeau, 1826",SPECIES,Laridae,Larus audouinii,100,EXACT
+78,Laridae,Larus fuscus,Goéland brun,Paléarctique,Abondante,"Larus fuscus Linnaeus, 1758",SPECIES,Laridae,Larus fuscus,100,EXACT
+79,Laridae,Gelochelidon nilotica,Sterne hansel,"Paléarctique/
+Afrotropicale",Abondante,"Gelochelidon nilotica (Gmelin, 1789)",SPECIES,Laridae,Gelochelidon nilotica,100,EXACT
+80,Laridae,Sterna caspia,Sterne caspienne,"Paléarctique/
+Afrotropicale",Abondante,"Sterna caspia Pallas, 1770",SPECIES,Laridae,Sterna caspia,100,EXACT
+81,Laridae,Sterna maxima,Sterne royale,Afrotropicale,Fréquente,"Sterna maxima Boddaert, 1783",SPECIES,Laridae,Sterna maxima,100,EXACT
+82,Laridae,Sterna sandvicensis,Sterne caugek,Paléarctique,Commune,"Sterna sandvicensis Latham, 1787",SPECIES,Laridae,Sterna sandvicensis,100,EXACT
+83,Laridae,Sterna dougallii,Sterne de Dougall,Paléarctique,Rare,"Sterna dougallii Montagu, 1813",SPECIES,Laridae,Sterna dougallii,100,EXACT
+84,Laridae,Sterna hirundo,Sterne pierregarin,Paléarctique,Rare,"Sterna hirundo Linnaeus, 1758",SPECIES,Laridae,Sterna hirundo,100,EXACT
+85,Laridae,Sterna paradisea,Sterne arctique,Paléarctique,Fréquente,"Sterna paradisaea Pontoppidan, 1763",SPECIES,Laridae,Sterna paradisaea,95,FUZZY
+86,Laridae,Chlidonias leucoptera,Guifette leucoptére,Paléarctique,Peu fréquente,"Chlidonias leucopterus (Temminck, 1815)",SPECIES,Laridae,Chlidonias leucopterus,95,FUZZY
+87,Laridae,Chlidonias niger,Guifette noire,Paléarctique,Commune,"Chlidonias niger (Linnaeus, 1758)",SPECIES,Laridae,Chlidonias niger,100,EXACT
+88,Laridae,Chlidonias hybridus,Guifette moustac,Paléarctique,Abondante,"Chlidonias hybridus (Pallas, 1811)",SPECIES,Laridae,Chlidonias hybridus,99,EXACT
+89,Laridae,Sterna albifrons,Sterne naine,"Paléarctique/
+Afrotropical",Abondante,"Sterna albifrons Pallas, 1764",SPECIES,Laridae,Sterna albifrons,100,EXACT

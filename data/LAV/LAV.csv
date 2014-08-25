@@ -1,90 +1,102 @@
-id;family;name;
-;Podicipedidae;Tachybaptus ruficollis
-;Podicipedidae;Podiceps nigricollis
-;Pelecanidae;Pelecanus onocrotalus
-;Pelecanidae;Pelecanus sp.
-;Sulidae;Sula bassana
-;Phalacrocoracidae;Phalacrocorax carbo ssp.lucidus
-;Phalacrocoracidae;Phalacrocorax africanus
-;Phalacrocoracidae;Anhinga rufa
-;Ardeidae;Nycticorax nycticorax
-;Ardeidae;Ardeola ralloides
-;Ardeidae;Butorides striatus
-;Ardeidae;Egretta ardesiaca
-;Ardeidae;Mesophyx intermedia
-;Ardeidae;Ardea melanocephala
-;Ardeidae;Egretta alba ssp. melanorhynchos
-;Ardeidae;Egretta garzetta
-;Ardeidae;Egretta gularis
-;Ardeidae;Ardea cinerea 
-;Ardeidae;Ardea purpurea
-;Ciconiidae;Mycteria ibis
-;Ciconiidae;Ciconia nigra
-;Ciconiidae;Ciconia ciconia
-;Treskiornithidae;Platalea leucorodia 
-;Treskiornithidae;Platalea alba
-;Treskiornithidae;Threskiornis aethiopicus
-;Treskiornithidae;Plegadis falcinellus
-;Phoenicopteridae;Phenicopterus ruber
-;Phoenicopteridae;Phenicopterus minor
-;Anatidae;Anas acuta
-;Anatidae;Anas querquedula
-;Anatidae;Anas clypeata
-;Anatidae;Anas bicolor
-;Anatidae;Dendrocygna viduata
-;Anatidae;Plectropterus gambensis
-;Anatidae;Sarkidiornis melanotos
-;Anatidae;Alopochen aegyptiacus
-;Anatidae;Nettapus auritus
-;Burhinidae;Burhinus senegalensis
-;Burhinidae;Burhinus capensis
-;Charadriidae;Vanellus spinosus
-;Charadriidae;Charadrius hiaticula
-;Charadriidae;Charadrius dubius
-;Charadriidae;Charadrius alexandrinus
-;Charadriidae;Vanellus senegalensis
-;Scolopaciddae;Numenius phaeopus
-;Scolopaciddae;Numenius arquata
-;Scolopaciddae;Limosa limosa
-;Scolopaciddae;Limosa lapponica
-;Scolopaciddae;Tringa nebularia
-;Scolopaciddae;Tringa stagnatilis
-;Scolopaciddae;Tringa glareola
-;Scolopaciddae;Tringa ochropus
-;Scolopaciddae;Tringa hypoleucos
-;Scolopaciddae;Tringa totanus
-;Scolopaciddae;Tringa erythropus
-;Scolopaciddae;Arenaria interpres
-;Scolopaciddae;Gallinago gallinago
-;Scolopaciddae;Calidris canutus
-;Scolopaciddae;Calidris alpina
-;Scolopaciddae;Calidris ferruginea
-;Scolopaciddae;Calidris minuta
-;Scolopaciddae;Calidris alba
-;Scolopaciddae;Calidris temminckii
-;Scolopaciddae;Philomachus pygnax
-;Scolopaciddae;Himantopus himantopus
-;Scolopaciddae;Haematopus ostralegus
-;Recurvirostridae;Himantopus himantopus
-;Recurvirostridae;Recurvirosttra avosetta
-;Jacanidae;Actophilornis africana
-;Jacanidae;Rostratula benghalensis
-;Gruidae;Balearica pavonina
-;Rallidae;Gallinula chloropus
-;Rallidae;Porphyrio porphyrio
-;Laridae;Larus ridibundus
-;Laridae;Larus genei
-;Laridae;Larus cirrhocephalus
-;Laridae;Larus audouinii
-;Laridae;Larus fuscus
-;Laridae;Gelochelidon nilotica
-;Laridae;Sterna caspia
-;Laridae;Sterna maxima
-;Laridae;Sterna sandvicensis
-;Laridae;Sterna dougallii
-;Laridae;Sterna hirundo
-;Laridae;Sterna paradisea
-;Laridae;Chlidonias leucoptera
-;Laridae;Chlidonias niger
-;Laridae;Chlidonias hybridus
-;Laridae;Sterna albifrons
+id;family;name;nameFR;regions;abundance
+1;Podicipedidae;Tachybaptus ruficollis;Grèbe castagneux;Paléarctique;Peu commune
+2;Podicipedidae;Podiceps nigricollis;Grèbe à cou noir;Paléarctique;Fréquente
+3;Pelecanidae;Pelecanus onocrotalus;Pélican blanc;Paléarctique / Afrotropicale;Abondante
+4;Pelecanidae;Pelecanus sp.;Pélican roussâtre;Afrotropical;Commune
+5;Sulidae;Sula bassana;Fou de bassan;Paléarctique;Commune
+6;Phalacrocoracidae;Phalacrocorax carbo ssp.lucidus;Grand cormoran ;Afrotropicale;Abondante
+7;Phalacrocoracidae;Phalacrocorax africanus;Cormoran africain;Paléarctique;Abondante
+8;Phalacrocoracidae;Anhinga rufa;Anhinga roux;Espèce résidente;Rare
+9;Ardeidae;Nycticorax nycticorax;Bihoreau gris;"Paléarctique/
+Résidente";Abondante
+10;Ardeidae;Ardeola ralloides;Crabier chevelu;"Paléarctique/
+Résidente";Abondante
+11;Ardeidae;Butorides striatus;Héron à dos vert;Espèce résidente;Commune
+12;Ardeidae;Egretta ardesiaca;Aigrette ardoisée;Espèce résidente;Rare
+13;Ardeidae;Mesophyx intermedia;Aigrette intermédiaire;Paléarctique;Rare
+14;Ardeidae;Ardea melanocephala;Héron mélanocéphale;Paléarctique;Rare ou Accidentelle
+15;Ardeidae;Egretta alba ssp. melanorhynchos;Grande aigrette;Afrotropicale;Peu commune
+16;Ardeidae;Egretta garzetta;Aigrette garzette;Paléarctique /Afrotropicale;Assez commune
+17;Ardeidae;Egretta gularis;Aigrette dimorphe;Afrotropicale;Assez commune
+18;Ardeidae;Ardea cinerea ;Héron cendré;Paléarctique;Assez commune
+19;Ardeidae;Ardea purpurea;Héron pourpré;Paléarctique;Peu commune
+20;Ciconiidae;Mycteria ibis;Tantale ibis;Espèce résidente;Abondante
+21;Ciconiidae;Ciconia nigra;Cigogne noire;Paléarctique;Fréquente
+22;Ciconiidae;Ciconia ciconia;Cigogne blanche;Paléarctique;Rare
+23;Treskiornithidae;Platalea leucorodia ;Spatule blanche;"Paléarctique/
+Afrotropicale";Abondante
+24;Treskiornithidae;Platalea alba;Spatule d’Afrique;Afrotropicale;Fréquente
+25;Treskiornithidae;Threskiornis aethiopicus;Ibis sacré;Espèce résidente;Fréquenté
+26;Treskiornithidae;Plegadis falcinellus;Ibis falcinelle;Afrotropicale;Abondante
+27;Phoenicopteridae;Phenicopterus ruber;Flamant rose;"Paléarctique/
+Afrotropicale";Fréquente
+28;Phoenicopteridae;Phenicopterus minor;Flamant nain;Afrotropicale;Abondante
+29;Anatidae;Anas acuta;Canard pilet;Paléarctique;Abondante
+30;Anatidae;Anas querquedula;Sarcelle d’été;Paléarctique;Abondante
+31;Anatidae;Anas clypeata;Canard souchet;Paléarctique;Abondante
+32;Anatidae;Anas bicolor;Dendrocygne fauve;Afrotropicale;Abondante
+33;Anatidae;Dendrocygna viduata;Dendrocygne veuf;Afrotropicale;Abondante
+34;Anatidae;Plectropterus gambensis;Oie de Gambie;Espèce résidente;Abondante
+35;Anatidae;Sarkidiornis melanotos;Canard casqué;Afrotropicale;Rare
+36;Anatidae;Alopochen aegyptiacus;Oie d’Egypte;Espèce résidente;Abondante
+37;Anatidae;Nettapus auritus;Sarcelle à oreillons;Afrotropicale;Rare
+38;Burhinidae;Burhinus senegalensis;Oedicnème du Sénégal;Espèce résidente;Abondante
+39;Burhinidae;Burhinus capensis;Oedicnéme tachard;Espèce résidente;Rare
+40;Charadriidae;Vanellus spinosus;Vanneau éperonné;Espèce résidente;Abondante
+41;Charadriidae;Charadrius hiaticula;Grand gravelot;Palaréactique;Fréquente
+42;Charadriidae;Charadrius dubius;Petit gravelot;Paléarctique;Rare
+43;Charadriidae;Charadrius alexandrinus;Gravelot à collier interrompu;"Paléarctique/
+Afrotropical";Abondante
+44;Charadriidae;Vanellus senegalensis;Vanneau du Sénégal;Espèce résidente;Abondante
+45;Scolopaciddae;Numenius phaeopus;Courlis corlieu;Paléarctique;Abondante
+46;Scolopaciddae;Numenius arquata;Courlis cendré;Paléarctique;Abondante
+47;Scolopaciddae;Limosa limosa;Barge à queue noire;Paléarctique;Abondante
+48;Scolopaciddae;Limosa lapponica;Barge rousse;Paléarctique;Abondante
+49;Scolopaciddae;Tringa nebularia;Chevalier aboyeur;Paléarctique;Abondante
+50;Scolopaciddae;Tringa stagnatilis;Chevalier stagnatile;Paléarctique;Rare
+51;Scolopaciddae;Tringa glareola;Chevalier sylvain;Paléarctique;Rare
+52;Scolopaciddae;Tringa ochropus;Chevalier cul-blanc;Paléarctique;Rare
+53;Scolopaciddae;Tringa hypoleucos;Chevalier guignette;Paléarctique;Fréquent e
+54;Scolopaciddae;Tringa totanus;Chevalier gambette;Paléarctique;Abondante
+55;Scolopaciddae;Tringa erythropus;Chevalier arlequin;Paléarctique;Abondante
+56;Scolopaciddae;Arenaria interpres;Tournepierre à collier;Paléarctique;Rare
+57;Scolopaciddae;Gallinago gallinago;Bécassine des marais;Paléarctique;Rare
+58;Scolopaciddae;Calidris canutus;Bécasseau maubèche;Paléarctique;Peu fréquente
+59;Scolopaciddae;Calidris alpina;Bécasseau variable;Paléarctique;Commune
+60;Scolopaciddae;Calidris ferruginea;Bécasseau cocorli;Paléarctique;Commune
+61;Scolopaciddae;Calidris minuta;Bécasseau minute;Paléarctique;Abondante
+62;Scolopaciddae;Calidris alba;Bécasseau sanderling;Paléarctique;Rare
+63;Scolopaciddae;Calidris temminckii;Bécasseau de Temmminck;Paléarctique;Rare
+64;Scolopaciddae;Philomachus pygnax;Chevalier combattant;Paléarctique;Abondante
+65;Scolopaciddae;Himantopus himantopus;Echasse blanche;Paléarctique;Peu commun
+66;Scolopaciddae;Haematopus ostralegus;Huîtrier pie;Paléarctique;Peu commune
+67;Recurvirostridae;Himantopus himantopus;Echasse blanche;Paléarctique;Abondante
+68;Recurvirostridae;Recurvirosttra avosetta;Avocette élégante;Espèce résidente;Abondante
+69;Jacanidae;Actophilornis africana;Jacana à poitrine dorée;"Afrotropicale/
+Espèce résidente";Commune
+70;Jacanidae;Rostratula benghalensis;Rhynchée peinte;Espèce résidente;Fréquente
+71;Gruidae;Balearica pavonina;Grue couronnée;Espèce résidente;Abondante
+72;Rallidae;Gallinula chloropus;Poule d’eau;"Paléarctique/
+Espèce résidente";Abondante
+73;Rallidae;Porphyrio porphyrio;Poule sultane;Espèce résidente;Abondante
+74;Laridae;Larus ridibundus;Mouette rieuse;Paléarctique;Fréquente
+75;Laridae;Larus genei;Goéland railleur;"Paléarctique/
+Afrotropical";Abondante
+76;Laridae;Larus cirrhocephalus;Mouette à tête grise;" Paléarctique/
+Afrotropicale";Abondante
+77;Laridae;Larus audouinii;Goéland d’Audouin;Paléarctique;Rare
+78;Laridae;Larus fuscus;Goéland brun;Paléarctique;Abondante
+79;Laridae;Gelochelidon nilotica;Sterne hansel;"Paléarctique/
+Afrotropicale";Abondante
+80;Laridae;Sterna caspia;Sterne caspienne;"Paléarctique/
+Afrotropicale";Abondante
+81;Laridae;Sterna maxima;Sterne royale;Afrotropicale;Fréquente
+82;Laridae;Sterna sandvicensis;Sterne caugek;Paléarctique;Commune
+83;Laridae;Sterna dougallii;Sterne de Dougall;Paléarctique;Rare
+84;Laridae;Sterna hirundo;Sterne pierregarin;Paléarctique;Rare
+85;Laridae;Sterna paradisea;Sterne arctique;Paléarctique;Fréquente
+86;Laridae;Chlidonias leucoptera;Guifette leucoptére;Paléarctique;Peu fréquente
+87;Laridae;Chlidonias niger;Guifette noire;Paléarctique;Commune
+88;Laridae;Chlidonias hybridus;Guifette moustac;Paléarctique;Abondante
+89;Laridae;Sterna albifrons;Sterne naine;"Paléarctique/
+Afrotropical";Abondante

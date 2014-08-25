@@ -11,6 +11,18 @@ drop table LAM_Species;
 select * from LAM_Species where origfamily != family;
 
 /* Create Tables & Views */
+create table LAV_Species (id integer primary key, origfamily text, origname text, namefr text, regions text, abundance text, scientificName text, rank text, family text, canonicalName text, confidence integer, matchType text);
+/* Drop tables & Views */
+drop table LAV_Species;
+/* Populate table with data */
+.mode csv
+.header off
+.separator ","
+.import ../../data/LAV/LAVout.csv LAV_Species
+/* Query */
+select * from LAV_Species where origfamily != family;
+
+/* Create Tables & Views */
 create table LMA_Species (id integer primary key, origname text, origauthor text, origyear integer, nameFR text, scientificName text, rank text, family text, canonicalName text, confidence integer, matchType text);
 CREATE VIEW LMA_exact AS select LMA.id AS id, LMA.scientificName AS scientificName, LMA.origauthor AS author, LMA.origyear AS year from LMA_Species LMA where matchType='EXACT';
 CREATE VIEW LMA_others AS select LMA.id AS id, LMA.scientificName AS scientificName, LMA.origname AS name, LMA.origauthor AS author, LMA.origyear AS year, LMA.matchtype as matchtype from LMA_Species LMA where matchType!='EXACT';
