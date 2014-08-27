@@ -54,6 +54,7 @@ http://www.catalogueoflife.org/col/webservice?name=Tara+spinosa
 * [OpenRefine](http://openrefine.org/)
 * [libreOffice](https://fr.libreoffice.org/)
 * [SQLite](http://www.sqlite.org/)
+* [SQLiteBrowser](http://sqlitebrowser.org/)
 * [BiodiversityCatalogue](https://www.biodiversitycatalogue.org/)
 
 ## Languages
