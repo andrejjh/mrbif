@@ -46,18 +46,3 @@ http://www.eu-nomen.eu/portal/webservices.php
 
 ### CatalogOfLife
 http://www.catalogueoflife.org/col/webservice?name=Tara+spinosa
-
-
-## Tools
-* [Atom](https://atom.io/faq)
-* [QGIS](http://www.qgis.org/fr/site/)
-* [OpenRefine](http://openrefine.org/)
-* [libreOffice](https://fr.libreoffice.org/)
-* [SQLite](http://www.sqlite.org/)
-* [SQLiteBrowser](http://sqlitebrowser.org/)
-* [BiodiversityCatalogue](https://www.biodiversitycatalogue.org/)
-
-## Languages
-* [Java](https://www.java.com/fr/)
-* [Python](https://www.python.org/)
-* [Ruby](https://www.ruby-lang.org/fr/)

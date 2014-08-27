@@ -75,6 +75,9 @@ select * from LRE_Dist;
 select ¨from LRE_Localities where locality='Chlim';
 select ¨from LRE_Localities where locality='Adel Bagrou';
 
+create table TPH_Species (origName text, origAuthor text, origFamily text,origSynonyms text, origNameFR text , scientificName text, rank text, family text, canonicalName text, confidence integer, matchType text);
+select * from TPH_Species where confidence != 100;
+
 /* foreign keys check */
 PRAGMA foreign_keys = 1;
 PRAGMA foreign_keys = 0;

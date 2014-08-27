@@ -9,7 +9,7 @@ def check_data(inpath, outpath)
 
   CSV.open(outpath, "wb") do |out|
     # :headers option indicates the file has a header row
-    CSV.foreach(inpath, :headers => true, :col_sep => ';') do |row|  
+    CSV.foreach(inpath, :headers => true, :col_sep => "\t") do |row|  
       outrow=row
       origname= row['name'].split(' ')[0] + ' ' + row['name'].split(' ')[1]
 #     pp origname
