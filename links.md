@@ -2,13 +2,19 @@
 [André Heughebaert](mailto:a.heughebaert@biodiversity.be) [Belgian Biodiversity Platform](http://www.biodiversity.be)
 
 ## GBIF
-* [Portail GBIF](http://www.gbif.org)
+* [Portail du GBIF](http://www.gbif.org)
 * [Page Mauritanie](http://www.gbif.org/country/MR)
 * [IPT de  test](http://ipt.gbif.org)
-* [IPT, à propos de](http://www.gbif.org/ipt)
 * [Mendeley GBIF Public Library](http://www.mendeley.com/groups/1068301/gbif-public-library/)
-* [DarwinCore site](http://rs.tdwg.org/dwc)
-* [DarwinCore extensions](http://tools.gbif.org/dwca-validator/extensions.do)
+
+##IPT
+* [A propos de l'IPT](http://www.gbif.org/ipt)
+* [Projet](https://code.google.com/p/gbif-providertoolkit)
+
+## DarwinCore
+* [site du TDWG](http://rs.tdwg.org/dwc)
+* [DwC Terms](http://rs.tdwg.org/dwc/terms/index.htm)
+* [DwC Extensions](http://tools.gbif.org/dwca-validator/extensions.do)
 
 ## Tools
 * [Atom](https://atom.io/faq)
@@ -25,6 +31,6 @@
 * [Ruby](https://www.ruby-lang.org/fr/)
 
 ## MRBIF
-* IPT production
+* [IPT production](http://ipt-mrbif.bebif.be)
 * (IPT de test)
-* (NPT de test
+* (NPT de test)
