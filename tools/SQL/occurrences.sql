@@ -4,10 +4,11 @@ drop table OCN_occ;
 select count(*), date from OCN_occ group by date;
 select count(*), date, observateur from OCN_occ group by date, observateur;
 
+drop view OCN_DwC;
 create view OCN_DwC as select
-  'urn:mrbif:ENS:OCN:' || printf('%05d',id) as occurrenceID,
+  'HumanObservation' as basisOfRecord,
+  'urn:MRBIF:ENSN:OCN:' || printf('%05d',id) as occurrenceID,
   id as catalogNumber,
-  'MR' as countryCode,
   NomScientifique || ', ' || Auteur || ' ' || Année as scientificName,
   'ICZN' as nomenclatureCode,
   'Crocodylidae' as family,
@@ -15,6 +16,7 @@ create view OCN_DwC as select
   printf('%3.3f',latitude) as decimalLatitude,
   printf('%3.3f',longitude) as decimalLongitude,
   'WGS84' as geodeticDatum,
+  'MR' as countryCode,
   Localité as locality,
   Observateur as observer
    from OCN_occ;
