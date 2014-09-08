@@ -1,0 +1,7 @@
+locality;coordinates
+Mare Mahmouda; 16°23'37N,07°41'51W
+Mare Chlim; 16°24'35N,09°02'54W
+Mare Ejar-Kouroudjel; 16°22'41N,11°25'04W
+Mare Kan Kossa; 15°56'27N,11°30'57W
+Lac d'Aleg; 17°08'38N,14°03'29W
+Lac R'Kiz; 16°49'02N,15°19'26W

@@ -1,61 +1,61 @@
-basisOfRecord,occurrenceID,catalogNumber,scientificName,nomenclatureCode,family,evenDate,decimalLatitude,decimalLongitude,geodeticDatum,countryCode,locality,observer
-HumanObservation,urn:MRBIF:ENSN:OCN:00001,1,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,18.327,-11.553,WGS84,MR,Ederoum,Brito JC et al.2011;Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00002,2,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,18.483,-11.741,WGS84,MR,Motoboul,Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00003,3,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,18.204,-11.735,WGS84,MR,Taorta,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00004,4,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,18.154,-12.013,WGS84,MR,Kaimel,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00005,5,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,18.386,-12.165,WGS84,MR,Daal,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00006,6,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,18.278,-12.365,WGS84,MR,Gabbou,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00007,7,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,18.077,-12.316,WGS84,MR,Dekheïletel‘Aleïb,Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00008,8,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.943,-12.257,WGS84,MR,TamourtEn'Naaj,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00009,9,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.850,-12.186,WGS84,MR,Suklan,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00010,10,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.821,-12.186,WGS84,MR,Tkhsutin,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00011,11,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.738,-12.245,WGS84,MR,ElHousseînîya,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00012,12,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.887,-12.111,WGS84,MR,Matmâta,Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00013,13,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,17.887,-12.101,WGS84,MR,Jabara,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00014,14,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.881,-12.094,WGS84,MR,Tartêga,Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00015,15,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.876,-12.092,WGS84,MR,Tartêga, upstream,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00016,16,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.846,-12.078,WGS84,MR,Bajai,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00017,17,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.855,-12.069,WGS84,MR,M'cherba,Brito JC et al.2011;Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00018,18,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.852,-11.972,WGS84,MR,Emreimida,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00019,19,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.846,-11.962,WGS84,MR,Kabda,Brito JC et al.2011; Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00020,20,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,18.053,-11.943,WGS84,MR,TinWaadine,Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00021,21,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.762,-11.883,WGS84,MR,Ch'Bayer,Brito JC et al.2011;Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00022,22,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.742,-11.874,WGS84,MR,Rh'Zembou,Brito JC et al.2011;Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00023,23,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.706,-11.826,WGS84,MR,Amzouzef,Brito JC et al.2011;Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00024,24,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.835,-11.558,WGS84,MR,ElKhedia,Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008
-HumanObservation,urn:MRBIF:ENSN:OCN:00025,25,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,17.816,-12.279,WGS84,MR,Sellenbou,Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00026,26,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.452,-12.395,WGS84,MR,Garaouel,Brito JC et al.2011;Joleaud, L. 1933.
-HumanObservation,urn:MRBIF:ENSN:OCN:00027,27,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,17.428,-12.420,WGS84,MR,Jreif(=Toueijikjit),Lluch, P. et al. 2004
-HumanObservation,urn:MRBIF:ENSN:OCN:00028,28,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.402,-12.389,WGS84,MR,Jreif,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00029,29,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.401,-12.364,WGS84,MR,E-n-Guinâr,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00030,30,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.188,-12.248,WGS84,MR,ElGhâira,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00031,31,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.152,-12.199,WGS84,MR,AouînetNanâga,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00032,32,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.070,-12.208,WGS84,MR,OummIcheglâne,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00033,33,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.889,-12.185,WGS84,MR,Bâfa,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00034,34,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.547,-12.010,WGS84,MR,FoumGoussas,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00035,35,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.185,-12.012,WGS84,MR,Guidemballa,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00036,36,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,15.957,-12.010,WGS84,MR,Soufa,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00037,37,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2007,15.883,-12.036,WGS84,MR,Guenétir2,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00038,38,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,16.756,-11.997,WGS84,MR,Legleyta,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00039,39,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2009,17.141,-11.011,WGS84,MR,Boûblei'îne,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00040,40,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.329,-10.709,WGS84,MR,Taghtâfet,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00041,41,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.261,-10.690,WGS84,MR,Jaraaziza,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00042,42,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,17.250,-10.668,WGS84,MR,Tâmchekket,Brito JC et al.2011;;Lluch, P. et al. 2004;Kirsch-Jung et al.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00043,43,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.640,-11.056,WGS84,MR,MegtaesSfeira,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00044,44,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.606,-11.055,WGS84,MR,Gâdoum,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00045,45,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.540,-10.801,WGS84,MR,Bougâri,Brito JC et al.2011;Nickel, H. 2003
-HumanObservation,urn:MRBIF:ENSN:OCN:00046,46,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.538,-10.742,WGS84,MR,Metraoucha,Brito JC et al.2011;Nickel, H. 2003
-HumanObservation,urn:MRBIF:ENSN:OCN:00047,47,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.579,-10.705,WGS84,MR,OummelMhâr,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00048,48,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.688,-10.191,WGS84,MR,ElMefga,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00049,49,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.702,-10.184,WGS84,MR,Kour,BritoJCetal.2011;Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00050,50,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.516,-10.453,WGS84,MR,CheggelMâleh,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00051,51,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,16.152,-10.357,WGS84,MR,LemsilleGharghar,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00052,52,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.655,-9.708,WGS84,MR,GuelbSamba,BritoJCetal.2011
-HumanObservation,urn:MRBIF:ENSN:OCN:00053,53,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,16.675,-9.306,WGS84,MR,Rachida,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00054,54,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,16.425,-9.631,WGS84,MR,Chelkha,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00055,55,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2008,16.403,-9.560,WGS84,MR,Goungel,BritoJCetal.2011;Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00056,56,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,16.385,-9.301,WGS84,MR,OumLelli,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00057,57,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,16.297,-9.257,WGS84,MR,GaâtSawana,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00058,58,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,15.858,-9.017,WGS84,MR,OumAzvavail,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00059,59,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,15.745,-9.681,WGS84,MR,GaâtTouil,Kirsch-Jungetal.2007
-HumanObservation,urn:MRBIF:ENSN:OCN:00060,60,Crocodylus niloticus, Laurenti 1768,ICZN,Crocodylidae,2000/2009,15.505,-9.817,WGS84,MR,OuldAgueila,Kirsch-Jungetal.2007
+"basisOfRecord","occurrenceID","catalogNumber","scientificName","nomenclatureCode","family","eventDate","decimalLatitude","decimalLongitude","geodeticDatum","countryCode","locality","observer"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00001","1","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","18.32678","-11.55292","WGS84","MR","Ederoum","Brito JC et al.2011;Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00002","2","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","18.48324","-11.74083","WGS84","MR","Motoboul","Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00003","3","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","18.20358","-11.73466","WGS84","MR","Taorta","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00004","4","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","18.15351","-12.01259","WGS84","MR","Kaimel","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00005","5","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","18.38643","-12.16497","WGS84","MR","Daal","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00006","6","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","18.27788","-12.36465","WGS84","MR","Gabbou","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00007","7","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","18.07665","-12.31629","WGS84","MR","Dekheïletel‘Aleïb","Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00008","8","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.94294","-12.25698","WGS84","MR","TamourtEn'Naaj","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00009","9","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.84979","-12.18643","WGS84","MR","Suklan","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00010","10","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.82126","-12.18576","WGS84","MR","Tkhsutin","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00011","11","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.73796","-12.24525","WGS84","MR","ElHousseînîya","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00012","12","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.88730","-12.11084","WGS84","MR","Matmâta","Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00013","13","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","17.88730","-12.10098","WGS84","MR","Jabara","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00014","14","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.88108","-12.09400","WGS84","MR","Tartêga","Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00015","15","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.87557","-12.09165","WGS84","MR","Tartêga, upstream","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00016","16","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.84634","-12.07824","WGS84","MR","Bajai","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00017","17","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.85531","-12.06884","WGS84","MR","M'cherba","Brito JC et al.2011;Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00018","18","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.85244","-11.97194","WGS84","MR","Emreimida","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00019","19","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.84638","-11.96210","WGS84","MR","Kabda","Brito JC et al.2011; Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00020","20","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","18.05349","-11.94289","WGS84","MR","TinWaadine","Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00021","21","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.76208","-11.88283","WGS84","MR","Ch'Bayer","Brito JC et al.2011;Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00022","22","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.74163","-11.87386","WGS84","MR","Rh'Zembou","Brito JC et al.2011;Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00023","23","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.70607","-11.82615","WGS84","MR","Amzouzef","Brito JC et al.2011;Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00024","24","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.83485","-11.55783","WGS84","MR","ElKhedia","Brito JC et al.2011; Lluch, P. et al. 2004;Tellería, J.L. et al. 2008"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00025","25","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","17.81617","-12.27857","WGS84","MR","Sellenbou","Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00026","26","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.45167","-12.39485","WGS84","MR","Garaouel","Brito JC et al.2011;Joleaud, L. 1933."
+"HumanObservation","urn:MRBIF:ENSN:OCN:00027","27","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","17.42817","-12.41987","WGS84","MR","Jreif(=Toueijikjit)","Lluch, P. et al. 2004"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00028","28","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.40211","-12.38884","WGS84","MR","Jreif","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00029","29","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.40143","-12.36415","WGS84","MR","E-n-Guinâr","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00030","30","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.18834","-12.24810","WGS84","MR","ElGhâira","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00031","31","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.15248","-12.19912","WGS84","MR","AouînetNanâga","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00032","32","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.07030","-12.20785","WGS84","MR","OummIcheglâne","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00033","33","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.88873","-12.18487","WGS84","MR","Bâfa","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00034","34","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.54746","-12.00959","WGS84","MR","FoumGoussas","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00035","35","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.18484","-12.01206","WGS84","MR","Guidemballa","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00036","36","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","15.95708","-12.00986","WGS84","MR","Soufa","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00037","37","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2007","15.88325","-12.03637","WGS84","MR","Guenétir2","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00038","38","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","16.75648","-11.99723","WGS84","MR","Legleyta","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00039","39","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2009","17.14076","-11.01114","WGS84","MR","Boûblei'îne","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00040","40","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.32917","-10.70857","WGS84","MR","Taghtâfet","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00041","41","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.26138","-10.69015","WGS84","MR","Jaraaziza","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00042","42","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","17.24986","-10.66761","WGS84","MR","Tâmchekket","Brito JC et al.2011;;Lluch, P. et al. 2004;Kirsch-Jung et al.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00043","43","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.64037","-11.05618","WGS84","MR","MegtaesSfeira","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00044","44","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.60610","-11.05539","WGS84","MR","Gâdoum","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00045","45","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.54009","-10.80149","WGS84","MR","Bougâri","Brito JC et al.2011;Nickel, H. 2003"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00046","46","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.53803","-10.74155","WGS84","MR","Metraoucha","Brito JC et al.2011;Nickel, H. 2003"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00047","47","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.57915","-10.70455","WGS84","MR","OummelMhâr","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00048","48","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.68758","-10.19136","WGS84","MR","ElMefga","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00049","49","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.70180","-10.18359","WGS84","MR","Kour","BritoJCetal.2011;Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00050","50","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.51556","-10.45291","WGS84","MR","CheggelMâleh","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00051","51","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","16.15233","-10.35667","WGS84","MR","LemsilleGharghar","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00052","52","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.65499","-9.70784","WGS84","MR","GuelbSamba","BritoJCetal.2011"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00053","53","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","16.67533","-9.30600","WGS84","MR","Rachida","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00054","54","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","16.42538","-9.63071","WGS84","MR","Chelkha","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00055","55","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2008","16.40315","-9.55986","WGS84","MR","Goungel","BritoJCetal.2011;Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00056","56","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","16.38470","-9.30056","WGS84","MR","OumLelli","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00057","57","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","16.29671","-9.25699","WGS84","MR","GaâtSawana","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00058","58","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","15.85783","-9.01683","WGS84","MR","OumAzvavail","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00059","59","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","15.74516","-9.68080","WGS84","MR","GaâtTouil","Kirsch-Jungetal.2007"
+"HumanObservation","urn:MRBIF:ENSN:OCN:00060","60","Crocodylus niloticus, Laurenti 1768","ICZN","Crocodylidae","2000/2007","15.50483","-9.81683","WGS84","MR","OuldAgueila","Kirsch-Jungetal.2007"

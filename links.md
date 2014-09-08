@@ -32,5 +32,5 @@
 
 ## MRBIF
 * [IPT production](http://ipt-mrbif.bebif.be)
-* (IPT de test)
+* [IPT test@MacBookPro](http://localhost:8080/ipt-2.1.1)
 * (NPT de test)

@@ -9,10 +9,11 @@ def check_data(inpath, outpath)
 
   CSV.open(outpath, "wb") do |out|
     # :headers option indicates the file has a header row
-    CSV.foreach(inpath, :headers => true, :col_sep => "\t") do |row|  
+    CSV.foreach(inpath, :headers => true, :col_sep => ",") do |row|  
+      pp row
       outrow=row
-      origname= row['name'].split(' ')[0] + ' ' + row['name'].split(' ')[1]
-#     pp origname
+#      origname= row['name'].split(' ')[0] + ' ' + row['name'].split(' ')[1]
+  origname=row['name']
       url = URI.parse('http://api.gbif.org/v1/species/match?name='+origname.gsub(' ','%20'))
       res = Net::HTTP.get_response(url)
       resp= JSON.parse(res.body)

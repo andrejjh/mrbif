@@ -1,0 +1,141 @@
+family;genus;id;name
+CAESALPINOIDEAE;BAUHINIA;1;Bauhinia rufescens Lam
+CAESALPINOIDEAE;CAESALPINIA;2;Caesalpinia pulcherima (L.) Swartz
+CAESALPINOIDEAE;CASSIA;3;Cassia sieberiana DC.
+CAESALPINOIDEAE;CHAMAECRISTA;4;Chamaecrista absus (L.) H.S. Irwin &
+CAESALPINOIDEAE;CHAMAECRISTA;5;Chamaecrista telfairiana (Hook.f.) Lock 
+CAESALPINOIDEAE;CHAMAECRISTA;6;Chamaecrista nigricans (Vahl) Greene
+CAESALPINOIDEAE;CORDYLA;7;Cordyla pinnata (Lepr. ex A.Rich.) Milne-Redh.
+CAESALPINOIDEAE;CYNOMETRA;8;Cynometra vogelii Hook.F.
+CAESALPINOIDEAE;DELONIX;9;Delonix regia (Bojer ex Hook.) Raf.
+CAESALPINOIDEAE;ERYTHROPHLEUM;10;Erythrophleum suaveolens (Guill. & Perr.) Brenan
+CAESALPINOIDEAE;PARKINSONIA;11;Parkinsonia aculeata(Linn)
+CAESALPINOIDEAE;PILIOSTIGMA;12;Piliostigma reticulatum (DC)Hocht.
+CAESALPINOIDEAE;SENNA;13;Senna alexandrina Miller
+CAESALPINOIDEAE;SENNA;14;Senna italica Mill.
+CAESALPINOIDEAE;SENNA;15;Senna obtusifolia (L.) H.S.Irwin & Barneby 
+CAESALPINOIDEAE;SENNA;16;Senna occidentalis (L.) Link
+CAESALPINOIDEAE;SENNA;17;Senna siamea (Lam.) H.S. Irwin & Barneby
+CAESALPINOIDEAE;TAMARINDUS;18;Tamarindus indica L.
+FABOIDEAE;ABRUS;19;Abrus precatorius L.
+FABOIDEAE;AESCHYNOMENE;20;Aeschynomene afraspera (L.) J. Leonard
+FABOIDEAE;AESCHYNOMENE;21;Aeschynomene elaphroxylon (Guill. et Perr.) Taub. 
+FABOIDEAE;AESCHYNOMENE ;22;Aeschynomene indica L.
+FABOIDEAE;ALYSICARPUS;23;Alysicarpus ovalifolius (K. Schum. & Thonn.) J. Leonard
+FABOIDEAE;ARACHIS;24;Arachis hypogea L.
+FABOIDEAE;ARACHIS;25;Argyrolobium arabicum (Decne) Jaub. & Spach.
+FABOIDEAE;ARGYROLOBIUM;26;Argyrolobium uniflorum Jaub. & Spach.
+FABOIDEAE;ASTRAGALUS;27;Astragalus akkensis Cosson
+FABOIDEAE;ASTRAGALUS;28;Astragalus eremophilus Boiss. subsp. eremophilus 
+FABOIDEAE;ASTRAGALUS;29;Astragalus mareoticus Delile
+FABOIDEAE;ASTRAGALUS;30;Astragalus pseudotrigonus Batt. et Trab.
+FABOIDEAE;ASTRAGALUS;31;Astragalus vogelii (Webb) Bornm.
+FABOIDEAE;CLITORIA;32;Clitoria ternatea L.
+FABOIDEAE;CROTALARIA;33;Crotalaria arenaria Bentham
+FABOIDEAE;CROTALARIA;34;Crotalaria retusa L. var. retusa
+FABOIDEAE;CROTALARIA;35;Crotalaria atrorubens Hochst. ex Benth.
+FABOIDEAE;CROTALARIA;36;Crotalaria lathyroides Guill. & Perr.
+FABOIDEAE;CROTALARIA;37;Crotalaria microphylla Vahl (Syn: C. astragalina) 
+FABOIDEAE;CROTALARIA;38;Crotalaria perrottetii DC.
+FABOIDEAE;CROTALARIA;39;Crotalaria podocarpa DC.
+FABOIDEAE;CROTALARIA;40;Crotalaria senegalensis (Pers.) Bacle ex DC.
+FABOIDEAE;CROTALARIA;41;Crotalaria sphaerocarpa Perr. subsp. Sphaerocarpa 
+FABOIDEAE;CROTALARIA;42;Crotalaria saharae Cosson
+FABOIDEAE;CULLEN;43;Cullen plicatum (Delile) C.H.Stirt.
+FABOIDEAE;CYAMOPSIS;44;Cyamopsis senegalensis Guill. & Perr.
+FABOIDEAE;DALBERGIA;45;Dalbergia melanoxylon Guill. & Perr. H: Sanghou
+FABOIDEAE;DALBERGIA;46;Dalbergia sissoo Roxb.
+FABOIDEAE;DESMODIUM;47;Desmodium ospriostreblum Chiov.
+FABOIDEAE;ERYTHRINA;48;Erythrina senegalensis DC.
+FABOIDEAE;FLEMINGIA;49;Flemingia faginea (Guill. et Perr.) Bak.
+FABOIDEAE;HIPPOCREPIS;50;Hippocrepis multisiliquosa L. subsp. constricta
+FABOIDEAE;INDIGOFERA;51;Indigofera argentea Burm. F.
+FABOIDEAE;INDIGOFERA;52;Indigofera aspera DC.
+FABOIDEAE;INDIGOFERA;53;Indigofera astragalina DC.
+FABOIDEAE;INDIGOFERA;54;Indigofera berhautiana J.B. Gillett 
+FABOIDEAE;INDIGOFERA;55;Indigofera bracteolata DC.
+FABOIDEAE;INDIGOFERA;56;Indigofera colutea (Burm. fil.) Merril var. colutea 
+FABOIDEAE;INDIGOFERA;57;Indigofera cordifolia Roth
+FABOIDEAE;INDIGOFERA;58;Indigofera dendroides Jacq.
+FABOIDEAE;INDIGOFERA;59;Indigofera diphylla Vent.
+FABOIDEAE;INDIGOFERA;60;Indigofera hirsuta L. var. hirsute
+FABOIDEAE;INDIGOFERA;61;Indigofera hochstetteri Baker
+FABOIDEAE;INDIGOFERA;62;Indigofera microcarpa Desv.
+FABOIDEAE;INDIGOFERA;63;Indigofera oblongifolia Forskal
+FABOIDEAE;INDIGOFERA;64;Indigofera parviflora Heyne ex Wight et Arn. var. occidentalis Gillett 
+FABOIDEAE;INDIGOFERA;65;Indigofera pilosa Poiret var. pilosa
+FABOIDEAE;INDIGOFERA;66;Indigofera prieureana Guill. & Perr.
+FABOIDEAE;INDIGOFERA;67;Indigofera pulchra Willd.
+FABOIDEAE;INDIGOFERA;68;Indigofera secundiflora Poiret var. secundiflora
+FABOIDEAE;INDIGOFERA;69;Indigofera senegalensis Lam.
+FABOIDEAE;INDIGOFERA;70;Indigofera sessiliflora DC.
+FABOIDEAE;INDIGOFERA;71;Indigofera stenophylla Guill. & Perr. var. stenophylla 
+FABOIDEAE;INDIGOFERA;72;Indigofera suffruticosa Miller
+FABOIDEAE;INDIGOFERA;73;Indigofera tinctoria L. var. tinctoria
+FABOIDEAE;KEBIRITA;74;Kebirita roudairei (Bonnet) Kramina & DD Sokoloff .
+FABOIDEAE;LONCHOCARPUS;75;Lonchocarpus laxiflorus Guill. & Perr.
+FABOIDEAE;LOTONONIS;76;Lotononis platycarpa (Viv.) Pichi Serm.
+FABOIDEAE;LOTUS;77;Lotus arabicus L.
+FABOIDEAE;LOTUS;78;Lotus assakensis Coss. ex Brand 
+FABOIDEAE;LOTUS;79;Lotus chazaliei H. Boissieu
+FABOIDEAE;LOTUS;80;Lotus glinoides Delile
+FABOIDEAE;LOTUS;81;Lotus jolyi Batt.
+FABOIDEAE;LUPINUS;82;Lupinus digitatus Forsk.
+FABOIDEAE;MEDICAGO;83;Medicago laciniata (L.) Miller
+FABOIDEAE;MEDICAGO;84;Medicago anguina ( Delile ) Romero Zarco 
+FABOIDEAE;MEDICAGO;85;Medicago polyceratia L.
+FABOIDEAE;MEDICAGO;86;Medicago stellata Trautv.
+FABOIDEAE;MICROCHARIS 87;Microcharis disjuncta (J.B. Gillett) Schrire
+FABOIDEAE;ONONIS;88;Ononis serrata Forskal 
+FABOIDEAE;ONONIS;89;Ononis tournefortii Coss.
+FABOIDEAE;PTEROCARPUS;90;Pterocarpus erinaceus Poir.
+FABOIDEAE;PTEROCARPUS;91;Pterocarpus lucens Lepr. ex Guill. & Perr. subsp. Lucens
+FABOIDEAE;REQUIENIA;92;Requienia obcordata (Lam. ex Poir.) DC.
+FABOIDEAE;RETAMA;93;Retama sphaerocarpa (L.) Boiss.
+FABOIDEAE;RHYNCHOSIA;94;Rhynchosia minima (L.) DC. var. memnonia (Delile) Cooke
+FABOIDEAE;RHYNCHOSIA;95;Rhynchosia sublobata (Schum. et Thonn.) Meikle
+FABOIDEAE;ROTHIA;96;Rothia hirsuta (Guill. & Perr.) Baker
+FABOIDEAE;SESBANIA;97;Sesbania leptocarpa DC.
+FABOIDEAE;SESBANIA;98;Sesbania pachycarpa DC. subsp. pachycarpa
+FABOIDEAE;SESBANIA;99;Sesbania rostrata Brem. et Oberm.
+FABOIDEAE;SESBANIA;100;Sesbania sericea (Willd.) Link.
+FABOIDEAE;SESBANIA;101;Sesbania sesban (L.) Merr. subsp. punctata (DC.) Gillet
+FABOIDEAE;STYLOSANTHES;102;Stylosanthes erecta P.Beauv.
+FABOIDEAE;TEPHROSIA;103;Tephrosia berhautiana Lescot
+FABOIDEAE;TEPHROSIA;104;Tephrosia bracteolata Guill. & Perr. var. bracteolate 
+FABOIDEAE;TEPHROSIA;105;Tephrosia gracilipes Guill. et Perr.
+FABOIDEAE;TEPHROSIA;106;Tephrosia linearis (Willd.) Pers. var. Linearis
+FABOIDEAE;TEPHROSIA;107;Tephrosia lupinifolia DC.
+FABOIDEAE;TEPHROSIA;108;Tephrosia mossiensis A. Cheval.
+FABOIDEAE;TEPHROSIA;109;Tephrosia nubica (Boiss.) Baker subsp. nubica 
+FABOIDEAE;TEPHROSIA;110;Tephrosia pedicellata Bak.
+FABOIDEAE;TEPHROSIA;111;Tephrosia platycarpa Guill. & Perr.
+FABOIDEAE;TEPHROSIA;112;Tephrosia purpurea (L.) Pers. subsp. Leptostachya 
+FABOIDEAE;TEPHROSIA;113;Tephrosia uniflora Pers. subsp. uniflora
+FABOIDEAE;VIGNA;114;Vigna adenantha (G.F. Mey.) Maréchal, Mascherpa et Stainier
+FABOIDEAE;VIGNA;115;Vigna vexillata (L.) Bentham var. angustifolia (Schum. et Thonn.) Bak.
+FABOIDEAE;ZORNIA;116;Zornia glochidiata Reichenb. ex DC
+FABOIDEAE;ZORNIA;117;Zornia latifolia Sm.
+MIMOSOIDEAE;ACACIA;118;Acacia ataxacantha DC
+MIMOSOIDEAE;ACACIA;119;Acacia ehrenbergiana Hayne,
+MIMOSOIDEAE;ACACIA;120;Acacia erythrocalyx Brenan.
+MIMOSOIDEAE;ACACIA;121;Acacia gourmaensis A. Chev.
+MIMOSOIDEAE;ACACIA;122;Acacia kirkii Oliver
+MIMOSOIDEAE;ACACIA;123;Acacia laeta R. Br. ex Benth.
+MIMOSOIDEAE;ACACIA;124;Acacia macrostachya DC.
+MIMOSOIDEAE;ACACIA;125;Acacia nilotica subsp. adstringens (Schumach. & Thonn.) Roberty 
+MIMOSOIDEAE;ACACIA;126;Acacia nilotica subsp. tomentosa (Benth.) Brenan
+MIMOSOIDEAE;ACACIA;127;Acacia obliquinervia Tindale
+MIMOSOIDEAE;ACACIA;128;Acacia senegal L. Willd
+MIMOSOIDEAE;ACACIA;129;Acacia seyal Del.
+MIMOSOIDEAE;ACACIA;130;Acacia sieberiana DC.
+MIMOSOIDEAE;ACACIA;131;Acacia tortilis (Forsk.) Hayne subsp. raddiana (Savi) Brenan
+MIMOSOIDEAE;DICHROSTACHYS;132;Dichrostachys cinerea (L.) Wight & Arn. subsp. Cinerea
+MIMOSOIDEAE;ENTADA;133;Entada africana Guill. & Perr. 
+MIMOSOIDEAE;FAIDHERBIA;134;Faidherbia albida (Del.) A. Chev.
+MIMOSOIDEAE;LEUCAENA;135;Leucaena leucocephala (Lam.) de Wit.
+MIMOSOIDEAE;MIMOSA;136;Mimosa pigra L.
+MIMOSOIDEAE;NEPTUNIA;137;Neptunia oleracea Lour. 
+MIMOSOIDEAE;PITHECELOBIUM;138;Pithecelobium dulce Benth.
+MIMOSOIDEAE;PROSOPIS;139;Prosopis africana (Guill.et al.) Taub.
+MIMOSOIDEAE;PROSOPIS;140;Prosopis chilensis (Mol.) Stuntz.

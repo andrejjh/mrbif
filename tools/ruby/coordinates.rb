@@ -60,7 +60,11 @@ Formats= [
 # Format.new("Degrees-MinutesPre" , /N(\d+)°(\d+)'?E(\d+)°(\d+)'?/, 2) ,
   Format.new("Degrees-DecMinutesNW" , /(\d+)°(\d+)\.(\d+)’?N,(\d+)°(\d+)\.(\d+)’?W/, 3),
 # Format.new("Degrees-DecMinutesPre" , /N(\d+)°(\d+)\.(\d+)'?E(\d+)°(\d+)\.(\d+)'?/, 3),
- Format.new("Degrees-Minutes-SecondesNW" , /(\d+)°(\d+)’(\d+)’’N,(\d+)°(\d+)’(\d+)’’W/, 4),
+# Format.new("Degrees-Minutes-SecondesNW" , /(\d+)°(\d+)’(\d+)’’N,(\d+)°(\d+)’(\d+)’’W/, 4),
+ 
+ 
+ Format.new("Degrees-Minutes-SecondesNW" , /(\d+)°(\d+)'(\d+)N,(\d+)°(\d+)'(\d+)W/, 4),
+
 # Format.new("Degrees-Minutes-SecondesPre" , /N(\d+)°(\d+)'(\d+)''E(\d+)°(\d+)'(\d+)''/, 4),
  Format.new("Degrees-Minutes-DecSecondesNW" , /(\d+)°(\d+)’(\d+)\.(\d+)’’N,(\d+)°(\d+)’(\d+)\.(\d+)’’W/, 5),
 # Format.new("Degrees-Minutes-Secondes" , /(\d+)°(\d+)'(\d+\.\d+)"E(\d+)°(\d+)'(\d+\.\d+)"N/, 5),
